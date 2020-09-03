@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+    {{ partial "head.html" . }}
+    <body class="landing-page">
+        <a id="top"></a>
+        <a href="#main-content" class="screen-reader-shortcut">Skip to main content</a>
+        <!--[if lt IE 9]>
+        <div id="ie">
+            <p><img src="https://common.northwestern.edu/v8/css/images/icons/ie-warning.png" alt="Warning icon" /> Your browser is <strong>out-of-date</strong> and has known <strong>security flaws</strong>. We recommend you update your browser: <a href="http://www.google.com/chrome/" target="_blank">Chrome</a> - <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a> - <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">Internet Explorer</a> - <a href="https://www.apple.com/safari/" target="_blank">Safari</a>.</p>
+        </div>
+        <![endif]-->  
+        {{ partial "header.html" . }}
+
+        {{ block "main" . }}
+
+        {{ end }}
+
+        {{ partial "footer.html" . }}
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
+        <script src="{{ .Site.BaseURL }}/js/scripts.js"></script>
+    </body>
+</html>

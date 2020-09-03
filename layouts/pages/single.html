@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<div class="section hero contain-1440">
+    <div class="hero-image" style="background:url('../../images/Cover2.jpg') no-repeat center / cover;">
+        <div class="contain-1120">
+            <h2>{{ .Params.Title }}</h2>
+        </div>
+    </div>
+</div>
+
+<div id="page">
+    <main id="main-content" class="content" tabindex="-1">
+        <div class="contain-1120">
+            <ul id="breadcrumbs">
+                <li><a href="https://buffett.northwestern.edu/index.html">Buffett Home</a></li>
+                <li><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></li>
+                <li class="active">{{ .Params.Title }}</li>
+            </ul>
+        </div>
+        <div class="contain-780">
+            {{ .Content }}
+        </div>
+    </main>
+</div>
+
+{{ end }}

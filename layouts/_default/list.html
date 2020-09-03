@@ -1,0 +1,39 @@
+{{ define "main" }}
+<div id="page">
+    <main id="main-content" class="content" tabindex="-1">
+        <div class="contain-1120">
+            <ul id="breadcrumbs">
+                <li><a href="https://buffett.northwestern.edu/index.html">Buffett Home</a></li>
+                <li><a href="{{ .Site.BaseURL }}">Living with Plagues</a></li>
+                <li class="active">{{ .Params.Title }}</li>
+            </ul>
+        </div>
+        <div class="section background-select">
+            <div class="background-select-image" style="background: url('https://common.northwestern.edu/v8/css/images/slashes-grey-bg.gif') no-repeat center / cover">
+                <div class="contain-780">
+                    <h2>{{ .Params.Title }}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="contain-1440 section">
+            <div class="section-top contain-970">
+            </div>
+            <div class="photo-feature-3-across">
+                {{ range .Pages }}
+                <article class="photo-feature">
+                    <a href="{{ .RelPermalink }}" style="border: medium none;">
+                        <img
+                            alt="faculty conversations" src="{{ .Params.image }}">
+                        <div class="text-over-image">
+                            <h4>{{ .Title }}</h4>
+                            <p class="link">{{ .Params.author.display_name }}</p>
+                        </div>
+                    </a>
+                </article>
+                {{ end }}
+            </div>
+        </div>
+    </main>
+</div>
+
+{{ end }}

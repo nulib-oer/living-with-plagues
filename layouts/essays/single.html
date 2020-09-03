@@ -1,0 +1,66 @@
+{{ define "main" }}
+
+<div id="page">
+    <main id="main-content" class="content" tabindex="-1">
+        <div class="contain-1120">
+            <ul id="breadcrumbs">
+                <li><a href="https://buffett.northwestern.edu/index.html">Buffett Home</a></li>
+                <li><a href="{{ .Site.BaseURL }}">Living with Plagues</a></li>
+                <li><a href="{{ .Site.BaseURL }}/essays/">Essays</a></li>
+                <li class="active">{{ .Title }}</li>
+            </ul>
+        </div>
+        <div class="section large-feature purple-slashes" style="background: url('https://common.northwestern.edu/v8/css/images/slashes-{{ .Params.bg_img }}-bg.gif') no-repeat center / cover">
+            <h3>{{ .Title }}</h3>
+            <div class="large-feature-inner">
+                <div class="content-side">
+                    <div class="text">
+                        <p>
+                            {{ .Params.author.bio }}
+                        </p>
+                        <h5>Recommended Citation:</h5>
+                        <p>
+                            {{ .Params.author.family_name }}, {{ .Params.author.given_name }} {{ .Params.author.middle_name }}. ({{ .Params.pub_date }}). "{{ .Title }}", <em><cite>Living with Plagues</cite></em>, Buffett Institute for Global Affairs, Northwestern University. DOI: <a href="https://doi.org/{{ .Params.doi }}" target="_blank">https://doi.org/{{ .Params.doi }}</a> 
+                        </p>
+                    </div>
+                </div>
+                <div class="right-side">
+                    <ul>
+                        <li><span style="font-weight: bold;">{{ .Params.author.display_name }}</span></li>
+                        <li class="date">Published: {{ .Params.pub_date }}</li>
+                        <li>DOI: <a href="https://doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a></li>
+                        <li><a href="/files/{{ .Params.author.family_name }}.pdf" target="_blank">Download PDF</a></li>
+                    </ul>
+                </div>
+            </div>    
+        </div>
+        <div class="contain-780">
+            {{ .Content }}
+        </div>
+        <div class="section contain-1120">
+            <div class="section-top">
+                <h3>More Essays</h3>
+            </div>
+            <div class="feature-two-col">
+                <article class="feature-box">
+                    <img alt="image description" src="https://picsum.photos/id/1003/550/310"/>
+                    <div class="feature-copy">
+                        <h4>Title</h4>
+                        <p>Paragraph content. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                    <a class="button" href="#">Read</a>
+                </article>
+                <article class="feature-box">
+                    <img alt="image description" src="https://picsum.photos/id/1019/550/310"/>
+                    <div class="feature-copy">
+                        <h4>Title</h4>
+                        <p>Paragraph content. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                    <a class="button" href="#">Read</a>
+                </article>
+            </div>
+        </div>
+    </main>
+</div>
+
+{{ end }}
