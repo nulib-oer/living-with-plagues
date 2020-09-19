@@ -1,6 +1,7 @@
 baseURL = "https://plagues.buffett.northwestern.edu"
 languageCode = "en-us"
-title = "Living With Plagues: New Narratives for a World in Distress"
+title = "Living With Plagues"
+subtitle = "New Narratives for a World in Distress"
 [related]
 threshold = 20.0
 includeNewer = false
