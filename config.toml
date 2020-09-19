@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://plagues.buffett.northwestern.edu"
 languageCode = "en-us"
 title = "Living With Plagues: New Narratives for a World in Distress"
 [related]
@@ -13,3 +13,13 @@ toLower = false
   [[related.indices]]
   name = "date"
   weight = 10.0
+
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    title = "Living With Plagues: New Narratives for a World in Distress"
+    weight = 1
+  [languages.fr]
+    title = "Living With Plagues: New Narratives for a World in Distress"
+    weight = 2
