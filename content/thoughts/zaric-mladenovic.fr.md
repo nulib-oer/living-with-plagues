@@ -1,16 +1,10 @@
 ---
 title: "Renforcement de l\'autoritarisme et résistance civile"
 author:
-    -
-        given_name: Zona
-        family_name: Zarić
-        display_name: Zona Zarić
-        bio: "Zona Zarić est doctorante en philosophie morale. Elle rédige une thèse intitulée «Phénoménologie d’une politique de la compassion», à l’ENS Ulm au sein du département de philosophie, école doctorale 540 (Ecole transdisciplinaire lettres et sciences), Archives Husserl UMR 8547, sous la direction de Marc Crépon et Cynthia Fleury."
-    -
-        given_name: Ivica
-        family_name: Mladenović
-        display_name: Ivica Mladenović
-        bio: "Ivica Mladenović est doctorant en sociologie et en sciences politique et chercheur à l’Institut de philosophie et de théorie sociale de Belgrade (IFDT). Il rédige une thèse intitulée « Les intellectuels français et la destruction yougoslave : structuration d’un espace public » à l’Université de Belgrade et à l’Université Paris 8, sous la direction de Laurent Jeanpierre et Ivana Spasic."
+    given_name: "& Mladenović, Ivica"
+    family_name: Zarić, Zona
+    display_name: Zona Zarić and Ivica Mladenović
+    bio: "Zona Zarić est doctorante en philosophie morale. Elle rédige une thèse intitulée «Phénoménologie d’une politique de la compassion», à l’ENS Ulm au sein du département de philosophie, école doctorale 540 (Ecole transdisciplinaire lettres et sciences), Archives Husserl UMR 8547, sous la direction de Marc Crépon et Cynthia Fleury. Ivica Mladenović est doctorant en sociologie et en sciences politique et chercheur à l’Institut de philosophie et de théorie sociale de Belgrade (IFDT). Il rédige une thèse intitulée « Les intellectuels français et la destruction yougoslave : structuration d’un espace public » à l’Université de Belgrade et à l’Université Paris 8, sous la direction de Laurent Jeanpierre et Ivana Spasic."
 doi: 10.21985/n2-6bn1-at64
 pub_date: 2020
 image: https://picsum.photos/id/1025/480/350

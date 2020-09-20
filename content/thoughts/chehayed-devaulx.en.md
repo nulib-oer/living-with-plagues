@@ -1,12 +1,10 @@
 ---
 title: "Philodendron Erubescens: Lament of an Office Plant & Manus Hominis: Lament of the Gloved Hand"
 author:
-    given_name: 
-    family_name: 
+    given_name: "& de Vaulx, Guillaume"
+    family_name: Chehayed, Nibras
     display_name: Nibras Chehayed and Guillaume de Vaulx
-    bio: "Nibras Chehayed: chercheur post-doctorant (Marie Curie) dans le domaine de la philosophie contemporaine, rattaché au CERILAC (Université de Paris) et à l’Institut français du Proche-Orient (CNRS). Il est l’auteur du Corps aux fils de l’écriture aux éditions Classiques Garnier. Nibras Chehayed is a post-doctoral researcher in contemporary philosophy, affiliated with the CERILAC (University of Paris) and the French Institute of the Near East. He is the author of Le Corps aux fils de l'écriture: Nietzsche après Derrida (Classiques Garnier).
-    
-    Guillaume de Vaulx is a philosopher, attached presently as researcher at the French Institute for the Near-East in Beirut. His principal field of research is classical Arabic philosophy, especially philosophy from the 9th and 10th century, and the history of zoology in Arabic language."
+    bio: "Nibras Chehayed: chercheur post-doctorant (Marie Curie) dans le domaine de la philosophie contemporaine, rattaché au CERILAC (Université de Paris) et à l’Institut français du Proche-Orient (CNRS). Il est l’auteur du Corps aux fils de l’écriture aux éditions Classiques Garnier. Nibras Chehayed is a post-doctoral researcher in contemporary philosophy, affiliated with the CERILAC (University of Paris) and the French Institute of the Near East. He is the author of Le Corps aux fils de l'écriture: Nietzsche après Derrida (Classiques Garnier). Guillaume de Vaulx is a philosopher, attached presently as researcher at the French Institute for the Near-East in Beirut. His principal field of research is classical Arabic philosophy, especially philosophy from the 9th and 10th century, and the history of zoology in Arabic language."
 doi: 10.21985/n2-6bn1-at64
 pub_date: 2020
 image: https://picsum.photos/id/1025/480/350
