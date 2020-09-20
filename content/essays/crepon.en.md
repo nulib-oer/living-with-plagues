@@ -8,7 +8,7 @@ author:
     bio: "Marc Crépon is a philosopher and academic who writes on the subject of languages and community in French and German philosophy and in contemporary political and moral philosophy. He has also translated works by philosophers such as Nietzsche, Rosenzweig, and Leibniz. Three of his books have appeared in English: _The Thought of Death and the Memory of War_, _Murderous Consent_, and _The Vocation of Writing_. He has served as Chair of Philosophy at the École Normale Supérieure, and is director of research at the Archives Husserl, National Center for Scientific Research."
 doi: laksdjflasdkjf
 pub_date: 2020
-image: /images/crepon.jpg
+image: crepon.jpg
 keywords:
     - plauges
 bg_img: 'white'

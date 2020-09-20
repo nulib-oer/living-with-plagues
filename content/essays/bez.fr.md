@@ -8,7 +8,7 @@ author:
     bio: "Anthony Curtis Adler is professor of German and Comparative Literature at Yonsei University's Underwood International College, where he has taught since 2006. He graduated from Northwestern University's Department of German Literature and Critical Thought, where he wrote his dissertation on Hoelderlin's novel Hyperion."
 doi: laksdjflasdkjf
 pub_date: 2020
-image: /images/bez.jpg
+image: bez.jpg
 keywords:
     - plauges
 bg_img: 'white'

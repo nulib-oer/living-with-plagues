@@ -8,7 +8,7 @@ author:
     bio: "Following a bachelor's degree in translation, theory of literature and contemporary philosophy, Ginevra Vénier embarked upon her doctoral studies at the École Normale Supérieure in September under the supervision of Marc Crépon and Dominique Combe."
 doi: laksdjflasdkjf
 pub_date: 2020
-image: /images/venier.png
+image: venier.png
 keywords:
     - plauges
 bg_img: 'white'
