@@ -21,6 +21,8 @@ DefaultContentLanguage = "en"
   [languages.en]
     title = "Living With Plagues: New Narratives for a World in Distress"
     weight = 1
+    LanguageName = "English"
   [languages.fr]
     title = "Living With Plagues: New Narratives for a World in Distress"
     weight = 2
+    LanguageName = "French"
