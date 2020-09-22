@@ -5,7 +5,7 @@ author:
     family_name: Bacilio
     display_name: María Bacilio
     bio: "María Bacilio was born in Mexico City. She currently lives and studies in Paris where she is a first year PhD student in Philosophy at the École Normale Supérieure (ENS). She holds an MA in Contemporary Philosophy from the ENS and a BA in Philosophy from the Universidad Nacional Autónoma de México."
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-19sk-fw85
 pub_date: 2020
 image: https://picsum.photos/id/1025/480/350
 keywords:

@@ -5,7 +5,7 @@ author:
     family_name: Bacilio
     display_name: María Bacilio
     bio: "María Bacilio est née à Mexico. Actuellement elle vit et étudie à Paris où elle est en première année de thèse en philosophie à l’École Normale Supérieure. Elle a fait son master en philosophie contemporaine à l’ENS et sa licence en philosophie à l’Universidad Nacional Autónoma de México."
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-19sk-fw85
 pub_date: 2020
 image: https://picsum.photos/id/1025/480/350
 keywords:

@@ -5,7 +5,7 @@ author:
     family_name: Musto
     display_name: Francesca Musto
     bio: "Docteure en philosophie à l’École Normale Supérieure de Paris et à l’Université Vita-Salute San Raffaele de Milan, je m’occupe de logique et de métaphysique. Mes recherches portent notamment sur la question du néant et de la négativité dans la philosophie antique."
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-2v7k-ge02
 pub_date: 2020
 image: https://picsum.photos/id/1025/480/350
 keywords:

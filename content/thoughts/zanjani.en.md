@@ -7,7 +7,7 @@ author:
     display_name: Mali Alinejad Zanjani	
     affilation: PhD Candidate, Northwestern, CLS
     bio: 'PhD student in philosophy at the École normale supérieure of Paris, Mali Alinejad Zanjani works on Avicenna’s ontology, noetics and psychology and on their Latin reception in the 16th century. Her research focuses, in particular, on imagination and matter. She is also a visual artist.'
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-fsyh-hg28
 pub_date: 2020
 image: https://picsum.photos/id/1022/480/350
 keywords:

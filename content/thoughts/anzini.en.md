@@ -5,7 +5,7 @@ author:
     family_name: Anzini
     display_name: Patricia Anzini
     bio: "Patricia Anzini holds a Ph.D. degree in Comparative Literary Studies from Northwestern University (2018). At Universidade Católica Portuguesa, she is the Program Assistant of its Doctoral School, the Executive Director of The Lisbon Consortium, and a researcher at the Research Centre for Communication and Culture. She studies Brazilian culture, hemispheric and transnational literature, poetry and poetics, and Walt Whitman."
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-mz2a-dh50
 pub_date: 2020
 image: https://picsum.photos/id/1025/480/350
 keywords:

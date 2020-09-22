@@ -6,7 +6,7 @@ author:
     family_name: Martinotti
     display_name: Mario Ranieri Martinotti
     bio: "Mario Ranieri Martinotti studied literature, philosophy and political science at the Sorbonne, the École des hautes études en Sciences sociales (EHESS), Sciences Po, UC Berkeley, and at the École normale supérieure of Paris. He is the author of two master’s theses: “Kafka. La parabole des réfugiés” (2018) and “Le déchaînement de la réalité vraie: Lukács/Auerbach, Balzac/Dante” (2020). He recently wrote a diary of his coronavirus confinement."
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-fc15-wb84
 pub_date: 2020
 image: https://picsum.photos/id/1025/480/350
 keywords:

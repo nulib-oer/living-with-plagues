@@ -7,7 +7,7 @@ author:
     display_name: Nate Brimner Smith
     affiliation: Northwestern University
     bio: 'Nate Brimner Smith is a 2020 graduate of Northwestern’s School of Communication, having completed a BA in Radio/TV/Film. Their multimedia stage adaptation of Ingmar Bergman’s Persona was produced in association with NU’s Dept. of Performance Studies in 2018. They have also edited several student films. '
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-w4yq-g238
 pub_date: 2020
 image: https://picsum.photos/id/1020/480/350
 keywords:

@@ -6,7 +6,7 @@ author:
     display_name: Sorrel Dunn
     bio: "Sorrel Dunn is a PhD candidate in Comparative Literary Studies and German at Northwestern University. Her research focuses on color and color theory to examine human-environment relations in German and Austrian literature since 1800."
 image: https://picsum.photos/id/1019/480/350
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-47gx-4m83
 pub_date: 2020
 keywords:
     - plauges

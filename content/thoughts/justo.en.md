@@ -5,7 +5,7 @@ author:
     family_name: Justo
     display_name: Nathalia Justo
     bio: "Nathalia Justo is a PhD Candidate in Political Science at Northwestern University. Her dissertation explores how deservingness relates to the shortcomings of legal categories at the margins of citizenship and delimits possibilities for political responsibility in global politics."
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-j3r5-8d25
 pub_date: 2020
 image: https://picsum.photos/id/1025/480/350
 keywords:
