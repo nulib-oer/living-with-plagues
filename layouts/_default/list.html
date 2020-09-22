@@ -1,6 +1,7 @@
 {{ define "main" }}
+
 <div id="page">
-    <main id="main-content" class="content" tabindex="-1">
+    <main id="main-content" class="content" tabindex="-1">        
         <div class="contain-1120">
             <ul id="breadcrumbs">
                 <li><a href="https://buffett.northwestern.edu/index.html">Buffett Home</a></li>
@@ -8,32 +9,42 @@
                 <li class="active">{{ .Params.Title }}</li>
             </ul>
         </div>
-        <div class="section background-select">
-            <div class="background-select-image" style="background: url('https://common.northwestern.edu/v8/css/images/slashes-grey-bg.gif') no-repeat center / cover">
-                <div class="contain-780">
-                    <h2>{{ .Params.Title }}</h2>
+
+        <div class="section hero">
+            <!-- note: no section top -->
+            <div class="hero-image in-page" style="background: url('/images/{{ .Params.hero }}') no-repeat center / cover">
+            </div>
+        </div>
+       
+        <div class="section contain-1120">
+                <div class="section-top contain-970">
+                    <h2>{{ .Title }}</h2>
                 </div>
-            </div>
-        </div>
-        <div class="contain-1440 section">
-            <div class="section-top contain-970">
-            </div>
-            <div class="photo-feature-3-across">
+                <!-- component code here -->
+            <div class="feature-two-col">
+
                 {{ range .Pages }}
-                <article class="photo-feature">
-                    <a href="{{ .RelPermalink }}" style="border: medium none;">
-                        <img
-                            alt="faculty conversations" src="{{ .Params.image }}">
-                        <div class="text-over-image">
-                            <h4>{{ .Title }}</h4>
-                            <p class="link">{{ .Params.author.display_name }}</p>
-                        </div>
-                    </a>
+
+                <article class="feature-box">
+                    <div class="feature-copy">
+                        <h3>
+                            <a href="{{ .RelPermalink }}">
+                                {{ .Title | markdownify }}
+                            </a>
+                        </h3>
+                        <h6>By {{ .Params.author.display_name }}</h6>
+                        <p>{{ .Params.author.bio | markdownify }}</p>
+                    </div>
+                    <a class="button" href="{{ .RelPermalink }}">Read</a>
                 </article>
+
                 {{ end }}
+
             </div>
         </div>
+        
     </main>
 </div>
+
 
 {{ end }}
