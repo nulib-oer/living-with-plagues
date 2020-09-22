@@ -14,37 +14,38 @@
                     </div>
                 </div>
             </div>
+            <div class="section contain-970">
+                <p>{{ .Params.intro_text }}</p>
+            </div>
             <div class="section contain-1120">
                 <div class="alternate-photo-float">
                     <div class="image-left">
-                        <img src="/images/impressions.jpg" title="" alt="" />
+                        <a title="Arthur Hacker / And there was a Cry in Egypt" href="https://commons.wikimedia.org/wiki/File:And_there_was_a_Cry_in_Egypt.jpg" target="_blank">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/And_there_was_a_Cry_in_Egypt.jpg/512px-And_there_was_a_Cry_in_Egypt.jpg" alt="Arthur Hacker / And there was a Cry in Egypt" />
+                        </a>
                     </div>
                     <div class="text">
                         <h3><a href="/impressions-and-reflections/">Impressions and Reflections</a></h3>
                         <p>“Impressions and Reflections” offers short essays relating life in the pandemic in a number of sites across the world.</p>
+                        <p class="arrow-link"><a aria-label="Read Impressions and Reflections" href="/impressions-and-reflections/">Read Impressions and Reflections</a></p>
                     </div>
                 </div>
                 <div class="alternate-photo-float">
-                    <div class="image-right">
-                        <img src="/images/essays.jpg" title="Plague in London, 1665. Licensed Creative Commons Attribution 4.0 International License" alt="Scenes in London during the " />
-                    </div>
                     <div class="text">
                         <h3><a href="/essays/">Essays</a></h3>
                         <p>“Essays” is composed of preliminary efforts to grasp the impact of the pandemic on our understanding of our being in the world.</p>
+                        <p class="arrow-link"><a aria-label="Read Essays" href="/essays/">Read Essays</a></p>
                     </div>
+                    <div class="image-right">
+                        <a>
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Nine_images_of_the_plague_in_London%2C_17th_century_Wellcome_L0016640.jpg/640px-Nine_images_of_the_plague_in_London%2C_17th_century_Wellcome_L0016640.jpg" title="Plague in London, 1665. Licensed Creative Commons Attribution 4.0 International License" alt="Scenes in London during the " />
+                        </a>                        
+                    </div>                    
                 </div>
             </div>
             <div class="section">
                 <div class="contain-970">
                     {{ .Content }}
-                </div>
-            </div>
-            <div class="section">
-                <div class="contain-970">
-                    <h4>Contact</h4>
-                    <p>
-                        {{ .Params.contact | markdownify }}
-                    </p>
                 </div>
             </div>
         </main>
