@@ -2,6 +2,7 @@
     font: 30px/1.2em "Akkurat Pro Bold","Arial Black",sans-serif;
     color: #4e2a84;
 }
+
 blockquote {
     border-top: 4px solid #f0f0f0;
     border-bottom: 4px solid #f0f0f0;
@@ -10,4 +11,34 @@ blockquote {
     position: relative;
     color: #4e2a84;
     margin-bottom: 1em;
+}
+
+.landing-page .content h6 {
+    text-align: center;
+}
+
+.landing-page .content h3::after {
+    border-bottom: 4px solid #f0f0f0;
+    max-width: 836px;
+    width: 100%;
+    content: ' ';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.feature-copy a {
+    font-family: "Akkurat Pro Bold", "Arial Black", sans-serif;
+    color: #4e2a84;
+    text-decoration: none;
+    padding-bottom: .08rem;
+}
+
+.landing-page .hero .hero-image.in-page {
+    height: 540px;
+    display: block;
+    vertical-align: middle;
+    width: 100%;
 }
