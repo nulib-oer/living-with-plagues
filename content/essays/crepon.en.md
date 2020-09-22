@@ -10,7 +10,7 @@ doi: 10.21985/n2-vq54-6h05
 pub_date: 2020
 image: crepon.jpg
 keywords:
-    - plauges
+    - Essays
 bg_img: 'white'
 ---
 

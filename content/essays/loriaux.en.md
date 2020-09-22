@@ -10,7 +10,7 @@ doi: laksdjflasdkjf
 pub_date: 2020
 image: loriaux.jpg
 keywords:
-    - plauges
+    - Essays
 bg_img: 'white'
 ---
 

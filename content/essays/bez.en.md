@@ -9,7 +9,7 @@ doi: 10.21985/n2-5n76-bz44
 pub_date: 2020
 image: bez.jpg
 keywords:
-    - plauges
+    - Essays
 bg_img: 'white'
 ---
 
