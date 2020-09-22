@@ -1,12 +1,11 @@
 ---
 title: Fragilités
 author:
-    given_name: Anthony
-    middle_name: Curtis
-    family_name: Adler
-    display_name: Anthony Curtis Adler
+    given_name: Felipe
+    family_name: Alarcón
+    display_name: Felipe Alarcón
     bio: "Felipe Alarcón has a PhD in Philosophy from the École Normale Supérieure. His research studies the relationship between philosophy and literature in French contemporary thought. He has translated books by Jean-Luc Nancy, Serge Margel, Jean-Christophe Bailly, Michaël Fœssel and others into Spanish."
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-zjf7-hm78
 pub_date: 2020
 image: https://picsum.photos/id/1025/480/350
 keywords:
