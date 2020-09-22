@@ -1,20 +1,15 @@
-{{ $related := .Pages.Related . | first 2 }}
+{{ $related := .Site.Pages.Related . | first 2 }}
 {{ with $related }}
-<div class="section contain-1120">
-    <div class="section-top">
-        <h3>More Essays</h3>
-    </div>
-    <div class="feature-two-col">
-        {{ range . }}
-        <article class="feature-box">
-            <img alt="image description" src="{{ .Params.image }}"/>
-            <div class="feature-copy">
-                <h4>{{ .Title }}</h4>
-                <p>Paragraph content. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            </div>
-            <a class="button" href="{{ .RelPermalink }}">Read</a>
-        </article>
-        {{ end }}
-    </div>
+<div class="feature-two-col">
+    {{ range . }}
+    <article class="feature-box">
+        <img alt="image description" src="{{ .Params.image }}"/>
+        <div class="feature-copy">
+            <h4>{{ .Title }}</h4>
+            <p>{{ .Params.author.display_name }}</p>
+        </div>
+        <a class="button" href="{{ .RelPermalink }}">Read</a>
+    </article>
+    {{ end }}
 </div>
 {{ end }}
