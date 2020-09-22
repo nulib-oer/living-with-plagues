@@ -3,10 +3,14 @@
 <div class="feature-two-col">
     {{ range . }}
     <article class="feature-box">
-        <img alt="image description" src="{{ .Params.image }}"/>
         <div class="feature-copy">
-            <h4>{{ .Title }}</h4>
-            <p>{{ .Params.author.display_name }}</p>
+            <h3>
+                <a href="{{ .RelPermalink }}">
+                    {{ .Title | markdownify }}
+                </a>
+            </h3>
+            <h6>By {{ .Params.author.display_name }}</h6>
+            <p>{{ .Params.author.bio | markdownify }}</p>
         </div>
         <a class="button" href="{{ .RelPermalink }}">Read</a>
     </article>

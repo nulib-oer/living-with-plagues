@@ -29,12 +29,12 @@
                     <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">
                         <img src="https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png" alt="Published under a Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0 International (CC BY NC ND 4.0) license" title="Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0 International (CC BY NC ND 4.0) license" />
                     </a>
-                    <p class="bold">Full-text:</p>
+                    <h6 style="margin-top: 1em;text-align: left;">Full-text Options:</h6>
                     <ul>
                         {{ if .IsTranslated }}
                         <li>
                             {{ range .Translations }}
-                            <a href="{{ .Permalink }}">Read {{ .Site.Language.LanguageName }} Translation</a>
+                            <a href="{{ .Permalink }}">{{ .Site.Language.LanguageName }} Translation</a>
                             {{ end}}
                         </li>
                         {{ end }}

@@ -16,21 +16,22 @@
                     <div class="text">
                         <h5>By {{ .Params.author.display_name }}</h5>
                         <p>{{ .Params.author.bio | markdownify }}</p>
-                        <ul>
-                            <li>DOI: <a href="https://doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a></li>
-                            <li><a href="/files/{{ .File.BaseFileName }}.pdf">Download PDF</a></li>
-                            {{ if .IsTranslated }}
-                                <li>
-                                {{ range .Translations }}
-                                    <a href="{{ .Permalink }}">Read {{ .Site.Language.LanguageName }} Translation</a>
-                                {{ end}}
-                                </li>
-                            {{ end }}
-                        </ul>
+                        <p>Copyright &copy; 2020 {{ .Params.author.display_name }}. Published under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">Creative Commons (CC BY NC ND 4.0) license</a>.</p>
                     </div>
                 </div>
                 <div class="right-side">
-                    <p>Copyright &copy; 2020 {{ .Params.author.display_name }}. Published under a <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">Creative Commons (CC BY NC ND 4.0) license</a>.</p>
+                    <h6 style="text-align: left;">Full-text Options:</h6>
+                    <ul>
+                        {{ if .IsTranslated }}
+                        <li>
+                            {{ range .Translations }}
+                            <a href="{{ .Permalink }}">{{ .Site.Language.LanguageName }} Translation</a>
+                            {{ end}}
+                        </li>
+                        {{ end }}
+                        <li><a href="/files/{{ .File.BaseFileName }}.pdf">Download PDF</a></li>
+                        <li>doi: <a href="https://doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a></li>
+                    </ul>
                     <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">
                         <img src="https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png" alt="Published under a Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0 International (CC BY NC ND 4.0) license" title="Creative Commons Attribution-Non-Commercial-NoDerivatives 4.0 International (CC BY NC ND 4.0) license" />
                     </a>
