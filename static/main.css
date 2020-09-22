@@ -1,0 +1,13 @@
+.landing-page .content h3 {
+    font: 30px/1.2em "Akkurat Pro Bold","Arial Black",sans-serif;
+    color: #4e2a84;
+}
+blockquote {
+    border-top: 4px solid #f0f0f0;
+    border-bottom: 4px solid #f0f0f0;
+    font: 34px/1.3em "Campton Extra Light","Courier New",sans-serif;
+    padding: 0 0 0 2.75rem;
+    position: relative;
+    color: #4e2a84;
+    margin-bottom: 1em;
+}
