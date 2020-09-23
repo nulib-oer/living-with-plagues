@@ -54,8 +54,8 @@
                     "philosophy"
                 ],
                 "name": "{{ .Title }}",{{ if eq .Section "essays"}}
-                "articleSection: "Essays",{{ else }}
-                "articleSection: "Impressions and Reflections",{{ end }}           
+                "articleSection": "Essays",{{ else }}
+                "articleSection": "Impressions and Reflections",{{ end }}           
                 "author": "{{ .Params.author.family_name }}, {{.Params.author.given_name }}",
                 "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
             }
