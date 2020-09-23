@@ -9,7 +9,8 @@ author:
     bio: 'Cintia Kozonoi Vezzani is a Ph.D. candidate in the Department of Spanish and Portuguese at Northwestern University. She holds a B.A. from the University of São Paulo, was an exchange student at the Université Lumière Lyon 2, and was a member of the Northwestern Paris Program in Critical Theory. Her writing can be found most recently in the edited collection _Comparative Perspectives on the Rise of the Brazilian Novel_ (UCL Press, 2020).'
 doi: 10.21985/n2-fefe-3s55
 pub_date: 2020
-image: https://picsum.photos/id/1022/480/350
+image: vezzani.jpg
+alt: Photo of Citia Kozonoi Vezzani
 keywords:
     - plauges
 bg_img: 'white'

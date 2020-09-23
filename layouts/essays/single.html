@@ -13,6 +13,9 @@
             <h2 style="text-align: center;">{{ .Title | markdownify }}</h2>
             <div class="large-feature-inner">
                 <div class="content-side">
+                    {{ if .Params.image }}
+                    <img alt="{{ .Page.Params.alt }}" src="/images/{{ .Page.Params.image }}"/>
+                    {{ end }}
                     <div class="text">
                         <h5>By {{ .Params.author.display_name }}</h5>
                         <p>
@@ -20,7 +23,7 @@
                         </p>
                         <h5>Recommended Citation:</h5>
                         <p>
-                            {{ .Params.author.family_name }}, {{ .Params.author.given_name }} {{ .Params.author.middle_name }}. ({{ .Params.pub_date }}). "{{ .Title }}", <em><cite>Living with Plagues</cite></em>, Buffett Institute for Global Affairs, Northwestern University. DOI: <a href="https://doi.org/{{ .Params.doi }}" target="_blank">https://doi.org/{{ .Params.doi }}</a> 
+                            {{ .Params.author.family_name }}, {{ .Params.author.given_name }} {{ .Params.author.middle_name }}. "{{ .Title }}", <em><cite>Living with Plagues: New Narratives for a World in Distress</cite></em>, Buffett Institute for Global Affairs, (2020), doi: <a href="https://doi.org/{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a> 
                         </p>
                     </div>
                 </div>

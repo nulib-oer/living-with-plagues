@@ -6,8 +6,8 @@ author:
     display_name: Eddine Bouyahi
     bio: "Eddine Bouyahi is a PhD candidate in Political Science at Northwestern University and Sciences Po. After completing his Masters at Sciences Po on the politics of land redistribution in Zimbabwe, his current dissertation project focuses on the links between labor, nationalist politics, and populism in Southern Africa."
 doi: 10.21985/n2-v6re-yz87
-pub_date: 2020
-image: https://picsum.photos/id/1025/480/350
+image: bouyahi.jpg
+alt: Photo of Eddine Bouyahi
 keywords:
     - plauges
 bg_img: 'white'

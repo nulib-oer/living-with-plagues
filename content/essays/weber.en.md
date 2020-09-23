@@ -4,9 +4,8 @@ author:
     given_name: Samuel
     family_name: Weber
     display_name: Samuel Weber
-    affiliation: Northwestern University
     bio: "Samuel Weber teaches Critical Theory, German and Comparative Literature at Northwestern and directs that University’s Paris Program in Critical Theory. In 2021 his new book “Singularity: Politics and Poetics” will be published by the University of Minnesota Press."
-doi: laksdjflasdkjf
+doi: 10.21985/n2-pz23-qn30
 pub_date: 2020
 image: weber.png
 keywords:

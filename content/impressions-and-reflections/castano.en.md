@@ -8,7 +8,8 @@ author:
     bio: "Héctor G. Castaño, Ph. D. in Philosophy (Université Paris Nanterre, 2017), works currently as a postdoctoral researcher at the Research Center for Chinese Cultural Subjectivity in Taiwan (National Chengchi University) and has been appointed program director at the Collège International de Philosophie (2019-2025)."
 doi: 10.21985/n2-2v34-xt59
 pub_date: 2020
-image: https://picsum.photos/id/1025/480/350
+image: castano.jpg
+alt: Photo of a town, taken from the top of a hill
 keywords:
     - plauges
 bg_img: 'white'
