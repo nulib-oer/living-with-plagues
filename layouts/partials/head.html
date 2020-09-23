@@ -2,14 +2,65 @@
     <meta charset="UTF-8">
     <meta content="IE=Edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="//common.northwestern.edu/v8/images/northwestern-thumbnail.jpg" property="og:image">
-    <title>{{ .Site.Title }} Buffett Institute of Global Affairs - Northwestern University</title>
+    <meta content="https://common.northwestern.edu/v8/images/northwestern-thumbnail.jpg" property="og:image">
+    <title>{{ .Title }} | {{ .Site.Title }} - Buffett Institute of Global Affairs - Northwestern University</title>
     <link href="https://buffett.northwestern.edu/common/css/buffett2020.css" media="screen" rel="stylesheet" type="text/css">
     <link href="https://buffett.northwestern.edu/common/css/print.css" media="print" rel="stylesheet" type="text/css">
     <link href="https://buffett.northwestern.edu/common/css/swiper.css" media="screen" rel="stylesheet" type="text/css">
-    <link href="/main.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="{{ "main.css" | absURL }}" media="screen" rel="stylesheet" type="text/css">
     <!--[if lt IE 9]>
     <script src="//common.northwestern.edu/v8/js/html5shiv-printshiv.js"></script>
     <![endif]-->   
     <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+    <!-- Open Graph Metadata Block -->
+    <meta property="og:title" content="{{ .Page.Title }} | {{ .Site.Title }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:description" content="Living with Plagues is a collection of personal essays and reflections on the COVID-19 pandemic, written by students and faculty of Northwestern University and the École Normale Supérieure of Paris, France." />
+    <meta property="og:image" content="https://buffett.northwestern.edu/common/css/images/world-map-bg.jpg" />
+    {{ if or (eq .Section "essays") (eq .Section "impressions-and-reflections") }}
+    <!-- Google Scholar Metadata Block -->
+    <meta name="citation_title" content="{{ .Title }}">
+    <meta name="citation_author" content="{{ .Params.author.family_name }}, {{.Params.author.given_name }}">
+    <meta name="citation_publication_date" content="2020/09/23">
+    <meta name="citation_journal_title" content="{{ .Site.Title }}">
+    <meta name="citation_publisher" content="Buffett Institute for Global Affairs at Northwestern University">
+    <meta name="citation_doi" content="{{ .Params.doi }}">
+    <meta name="citation_language" content="{{ .Site.Language.Lang }}">
+    <meta name="citation_pdf_url" content="/files/{{ .File.BaseFileName }}.pdf">
+    <!-- JSON-LD Schema.Org Metadata -->
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@graph": [
+            {
+                "@type": "PublicationIssue",
+                "datePublished": "2020",
+                "isPartOf": {
+                    "@id": "#periodical",
+                    "@type": [
+                        "Periodical"
+                    ],
+                    "name": "Living with Plagues: New Narratives for a World in Distress",
+                    "publisher": "Buffett Institute for Global Affairs at Northwestern University"
+                }
+            },
+            {
+                "@type": "ScholarlyArticle",
+                "isPartOf": "#issue",
+                "sameAs": "https://doi.org/{{ .Params.doi }}",
+                "about": [
+                    "pandemic",
+                    "covid-19",
+                    "philosophy"
+                ],
+                "name": "{{ .Title }}",{{ if eq .Section "essays"}}
+                "articleSection: "Essays",{{ else }}
+                "articleSection: "Impressions and Reflections",{{ end }}           
+                "author": "{{ .Params.author.family_name }}, {{.Params.author.given_name }}",
+                "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+            }
+          ]
+        }
+    </script>
+    {{ end }}
 </head>
