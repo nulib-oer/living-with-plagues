@@ -1,4 +1,5 @@
 ---
+title: Home
 page_layout: landing-page
 intro_text: "Day by day it becomes increasingly clear that COVID-19 will have wrought lasting changes in our common sense understandings of “how the world works” and “our place in it.” All attempts to project how society, politics, and economic life might evolve must begin with our efforts, as singularities, embedded in linguistic and social-political communities, to formulate in words our experiences – plural – of the pandemic, and of the hopes and fears those experiences have generated. The Buffett Institute, with the French Interdisciplinary Group, has inaugurated, in collaboration with Northwestern’s partner university, the École Normale Supérieure of Paris, France, a cross-border, cross-disciplinary, cross-cultural, and cross-generational exchange of experiences, of thoughts about those experiences, and of theoretical exploration of those thoughts, as expressed by present and past doctoral students and faculty of the two institutions."
 ---
