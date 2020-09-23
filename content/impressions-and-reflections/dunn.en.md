@@ -8,7 +8,6 @@ author:
 image: dunn.jpg
 alt: Shopping carts in a parking lot
 doi: 10.21985/n2-47gx-4m83
-pub_date: 2020
 keywords:
     - plauges
 bg_img: 'white'

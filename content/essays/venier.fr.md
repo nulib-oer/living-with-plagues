@@ -5,8 +5,7 @@ author:
     family_name: Vénier
     display_name: Ginevra Vénier
     bio: "Following a bachelor's degree in translation, theory of literature and contemporary philosophy, Ginevra Vénier embarked upon her doctoral studies at the École Normale Supérieure in September under the supervision of Marc Crépon and Dominique Combe."
-doi: laksdjflasdkjf
-pub_date: 2020
+doi: 10.21985/n2-6zrf-py23
 image: venier.png
 keywords:
     - Essays

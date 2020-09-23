@@ -6,8 +6,6 @@ author:
     display_name: Li Manhua
     bio: 'Dr. Li Manhua received her PhD in philosophy at École Normale Supérieure in Paris in 2019. Her dissertation entitled "Le corps ascétique"("The Ascetic Body") explores genealogy as a transcultural critical approach, and provides an account of the body as the milieu of ascetic practices in Mencius and Zhuangzi on the one hand, in Nietzsche and Foucault on the other. Her research focuses on contemporary French philosophy, 19th and 20th century German philosophy as well as pre-Qin and contemporary Chinese philosophy. Her writing of the body engages actively with current affairs such as bio-ethics, gender, technology, environment and cross-cultural value conflicts involving these issues.'
 doi: 10.21985/n2-63nf-sw83
-pub_date: 2020
-image: https://picsum.photos/id/1025/480/350
 keywords:
     - plauges
 bg_img: 'white'

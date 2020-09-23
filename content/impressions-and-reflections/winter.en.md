@@ -4,11 +4,8 @@ author:
     given_name: Maureen
     family_name: Winter
     display_name: Maureen Winter
-    affilation: PhD Candidate, Northwestern, CLS
     bio: 'Maureen Winter is a doctoral candidate in the Department of French and Italian at Northwestern University in Evanston, Illinois. She works on the relationship between gesture, theatricality, and fabulation in the cinema of Agnès Varda and Robert Bresson and Jean Genet’s theater. Her philosophical interests lie at the various points of intersection between the works of Gilles Deleuze and Giorgio Agamben, particularly in relation to politics. She is currently living in Paris as a fellow of Northwestern’s Paris Program in Critical Theory.'
 doi: 10.21985/n2-gxz0-rd70
-pub_date: 2020
-image: https://picsum.photos/id/1022/480/350
 keywords:
     - plauges
 bg_img: 'white'

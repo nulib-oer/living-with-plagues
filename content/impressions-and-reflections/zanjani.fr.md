@@ -8,8 +8,6 @@ author:
     affilation: PhD Candidate, Northwestern, CLS
     bio: 'Doctorante en philosophie à l’École normale supérieure de Paris, Mali Alinejad Zanjani mène des recherches sur l’ontologie, la noétique et la psychologie d’Avicenne et sa réception latine au XVIe siècle. En particulier, ses recherches portent sur l’imagination et la matière. Elle est aussi artiste plasticienne.'
 doi: 10.21985/n2-6bn1-at64
-pub_date: 2020
-image: https://picsum.photos/id/1022/480/350
 keywords:
     - plauges
 bg_img: 'white'

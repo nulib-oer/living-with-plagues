@@ -6,8 +6,6 @@ author:
     display_name: Muhammad Ridha
     bio: "Muhammad Ridha earned his bachelor’s degree in Political Science at the University of Indonesia. Supported by an Australian Development Scholarship, he received his Master’s from Murdoch University. He worked as a researcher at Pusat Kajian Politik (Puskapol) Universitas Indonesia and became an independent consultant and researcher for several non-governmental organizations in Indonesia. He is a doctoral candidate in the Political Science Department at Northwestern, where he is researching left politics in Southeast Asia."
 doi: 10.21985/n2-0er1-2b76
-pub_date: 2020
-image: https://picsum.photos/id/1025/480/350
 keywords:
     - plauges
 bg_img: 'white'

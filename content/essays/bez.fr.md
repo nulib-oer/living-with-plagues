@@ -6,8 +6,6 @@ author:
     display_name: Micol Bez
     bio: "Micol Bez  is currently teaching in the CPES (Cycle Pluridisciplinaire d’Études Supérieures) at the University of Paris Sciences and Letters. She is a graduate of the École Normale de Paris. Her research focuses on race and whiteness in post-kantian philosophy and on the political uses of the quasi-transcendental. She is working currently on sexual violence and on phenomenological approaches to fear in sexual abuse. Originally from Italy, she did her undergraduate work at Georgetown University, and has studied at Sciences Po, the University of Paris VIII Vincennes-Saint Denis, and theCentre for Research in Modern European Philosophy (Kingston University London) before entering the École Normale Supérieure in 2016. She is also a published poet, playwright, and dedicated teacher. In 2019 she taught as a temporary lecturer at the University of Johannesburg."
 doi: 10.21985/n2-5n76-bz44
-pub_date: 2020
-image: bez.jpg
 keywords:
     - plauges
 bg_img: 'white'

@@ -7,8 +7,6 @@ author:
     affiliation: Northwestern University
     bio: 'Jonas Rosenbrück recently completed his Ph.D in Comparative Literary Studies and German at Northwestern with a dissertation titled “Senses of Smell: The Differentiation of Air in Hölderlin, Nietzsche, and Ponge.” Starting in Fall 2020, he will be a Postdoctoral Fellow at Northwestern. He also serves as Director of Volunteer Development for the Northwestern Prison Education Program.'
 doi: 10.21985/n2-ev17-4366
-pub_date: 2020
-image: https://picsum.photos/id/1020/480/350
 keywords:
     - plauges
 bg_img: 'white'

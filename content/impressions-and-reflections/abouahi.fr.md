@@ -8,7 +8,6 @@ author:
     bio: "Éva Abouahi est agrégée et professeure de philosophie en lettres supérieures et en classes préparatoires aux écoles de commerce (« Classes Préparatoires aux Grandes Écoles ») à Reims. Elle prépare une thèse sur « La notion de salut chez Sartre » à l’E.N.S. et à Sorbonne Université sous la direction de Marc Crépon et de Jean-François Louette"
 alt: Photo of Éva Abouahi
 image: abouahi.jpg
-image: https://picsum.photos/id/1025/480/350
 keywords:
     - plauges
 bg_img: 'white'

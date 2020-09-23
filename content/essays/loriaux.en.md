@@ -4,10 +4,8 @@ author:
     given_name: Michael
     family_name: Loriaux
     display_name: Michael Loriaux
-    affiliation: Northwestern University
     bio: "Michael Loriaux is Professor of European and international politics in the Department of Political Science at Northwestern University. He is the author of Europe Anti-Power, of European Union and the Deconstruction of the Rhineland Frontier, and of other works on European and French politics. He is the founder and director of the French Interdisciplinary Group."
-doi: laksdjflasdkjf
-pub_date: 2020
+doi: 10.21985/n2-nzhx-fr97
 image: loriaux.jpg
 keywords:
     - Essays
