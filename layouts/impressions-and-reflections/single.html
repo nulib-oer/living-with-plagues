@@ -25,13 +25,14 @@
                 <div class="right-side">
                     <h6 style="text-align: left;">Full-text Options:</h6>
                     <ul>
-                        {{ if .IsTranslated }}
-                        <li>
-                            {{ range .Translations }}
-                            <a href="{{ .Permalink }}">{{ .Site.Language.LanguageName }} Translation</a>
-                            {{ end}}
-                        </li>
-                        {{ end }}
+                        {{ range .Translations }}
+                            {{ if eq .Site.Language.LanguageName "French" }}
+                                <li><a href="{{ .Permalink }}">Original version</a></li>
+                            {{ end }}
+                            {{ if eq .Site.Language.LanguageName "English" }}
+                                <li><a href="{{ .Permalink }}">English Translation</a></li>
+                            {{ end }}
+                        {{ end}}
                         {{ if eq .Title "An Immodest Proposal" }}
                         <li><a href="/files/weber2.en.pdf">Download PDF</a></li>
                         {{ else }}

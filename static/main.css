@@ -1,3 +1,9 @@
+.contain-780 .section p {
+    text-align: justify;
+    font-size: 150%;
+    line-height: 1.5em;
+}
+
 .landing-page .content h3 {
     font: 30px/1.2em "Akkurat Pro Bold","Arial Black",sans-serif;
     color: #4e2a84;

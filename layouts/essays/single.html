@@ -37,7 +37,12 @@
                         {{ if .IsTranslated }}
                         <li>
                             {{ range .Translations }}
-                            <a href="{{ .Permalink }}">{{ .Site.Language.LanguageName }} Translation</a>
+                                {{ if eq .Site.Language.LanguageName "French" }}
+                                <a href="{{ .Permalink }}">Original version</a>
+                                {{ end }}
+                                {{ if eq .Site.Language.LanguageName "English" }}
+                                <a href="{{ .Permalink }}">English Translation</a>
+                                {{ end }}
                             {{ end}}
                         </li>
                         {{ end }}

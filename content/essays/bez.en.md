@@ -101,7 +101,7 @@ I recently discussed the forthcoming economic mutations with a friend from Emili
 
 [^9]: A. Carson, *Autobiography or Red*, Vintage Books, New York, 1998.
 
-[^10]: 
+[^10]: D. Di Cesare, Virus Sovrano? L’asfissia capitalistica, Bollati Boringhieri Editore, Torino, 2020, p. 27.
 
 [^11]: Ibid, p. 31.
 
