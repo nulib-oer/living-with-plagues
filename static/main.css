@@ -1,7 +1,20 @@
+.background-select h2 {
+    font: 48px/1.2em "Akkurat Pro Light", Arial, sans-serif;
+    color: #fff;
+    margin-bottom: 1rem;
+    text-shadow: 2px 2px 0px #000;
+}
+
+small {
+    font: 16px/1.4em "Akkurat Pro Regular",Arial,sans-serif;
+    color: #716c6b;
+}
+
 .contain-780 .section p {
     text-align: justify;
     font-size: 150%;
     line-height: 1.5em;
+    padding: 0.5em;
 }
 
 .landing-page .content h3 {
