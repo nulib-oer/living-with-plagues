@@ -37,6 +37,7 @@ blockquote {
 }
 
 .landing-page .content h3::after {
+    border-bottom: none;
     max-width: 836px;
     width: 100%;
     content: ' ';
