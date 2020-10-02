@@ -6,10 +6,17 @@ author:
     display_name: Samuel Weber
     bio: "Samuel Weber teaches Critical Theory, German and Comparative Literature at Northwestern and directs that University’s Paris Program in Critical Theory. In 2021 his new book “Singularity: Politics and Poetics” will be published by the University of Minnesota Press."
 doi: 10.21985/n2-pz23-qn30
-image: weber.png
+headshot: weber.jpg
 keywords:
     - Essays
-bg_img: 'white'
+hero:
+    title: Der Doctor Schnabel von Rom
+    creator: Paul Fürst
+    alt: plague doctor engraving 
+    src: weber.png
+    url: https://commons.wikimedia.org/wiki/File:Paul_F%C3%BCrst,_Der_Doctor_Schnabel_von_Rom_(Holl%C3%A4nder_version).png
+    license: Public Domain
+    license_url: https://en.wikipedia.org/wiki/Public_domain
 ---
 
 ### I. "The End of the World As We Know It"

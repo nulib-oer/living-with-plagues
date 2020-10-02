@@ -8,10 +8,17 @@ author:
     bio: "Marc Crépon is a philosopher and academic who writes on the subject of languages and community in French and German philosophy and in contemporary political and moral philosophy. He has also translated works by philosophers such as Nietzsche, Rosenzweig, and Leibniz. Three of his books have appeared in English: _The Thought of Death and the Memory of War_, _Murderous Consent_, and _The Vocation of Writing_. He has served as Chair of Philosophy at the École Normale Supérieure, and is director of research at the Archives Husserl, National Center for Scientific Research."
 doi: 10.21985/n2-vq54-6h05
 alt: Photo of Marc Crépon
-image: crepon.jpg
+headshot: crepon-headshot.jpg
 keywords:
-    - plauges
-bg_img: 'white'
+    - Essays
+hero:
+    title: The Triumph of Death
+    creator: Pieter Bruegel the Elder
+    alt: painting of the black death
+    src: crepon.jpg
+    url: https://commons.wikimedia.org/wiki/File:The_Triumph_of_Death_by_Pieter_Bruegel_the_Elder.jpg
+    license: Public Domain
+    license_url: https://en.wikipedia.org/wiki/Public_domain
 ---
 
 *Pour mes étudiant(e)s,*

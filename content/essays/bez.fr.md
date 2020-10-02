@@ -8,7 +8,12 @@ author:
 doi: 10.21985/n2-5n76-bz44
 keywords:
     - plauges
-bg_img: 'white'
+hero:
+    title: untitled
+    creator: Lilia Carlone
+    alt: photo of a bed 
+    src: bez.jpg
+    permission: Courtesy of Lilia Carlone
 ---
 
 J'ai eu du mal à trouver le fil, narratif ou logique, pour parler du virus et de l'expérience --- peut-être encore trop fraiche --- des modalités multiples dont il a su façonner nos vies, nos relations et nos subjectivités. En réfléchissant à ce problème de méthode, j'arrivais toujours à une même question, qui d'ailleurs n'était pas la mienne, une question d'autrui qui posait les conditions de ma pensée. Elle m'avait été suggérée par Anne Cvetkovich il y a trois ou quatre ans, pendant un atelier d'écriture à Belgrade où elle avait demandé aux participants : what does capitalism make you feel ? Question toute simple, naïve même, mais qui à l'époque m'avait ouvert un vocabulaire critique autre. Afin de comprendre la prise du pouvoir sur un sujet, proposait Cvetkovich, il faut en cataloguer les sentiments : tracer la géographie intime des affects collectifs et des sentiments politiques que ce pouvoir engendre, tout comme de ceux qu'il rend impossibles et invivables. Je m'étais alors demandé, quels sont les sentiments éprouvés par ma génération qui vit au bord de l\'extinction ? Comment portons-nous le poids de la précarité ou le ressentiment envers nos « parents » qui nous ont laissé un monde en ruines ? Et encore, quelle solitude dans la phrase « je ne vais pas avoir d'enfants, tu sais, à cause du climat » ? Est-ce une solitude politique ? Comment nous sentons-nous en tant que génération, pays et peuple ? Est-ce que les États ont des sentiment, la Grèce se sent-elle trahie par l'Europe, et les États-Unis sont-ils tombés dans une dépression après l'élection de Trump ?[^1]

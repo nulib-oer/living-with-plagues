@@ -8,7 +8,12 @@ author:
 doi: 10.21985/n2-5n76-bz44
 keywords:
     - Essays
-bg_img: 'white'
+hero:
+    title: untitled
+    creator: Lilia Carlone
+    alt: photo of a bed 
+    src: bez.jpg
+    permission: Courtesy of Lilia Carlone
 ---
 
 I struggled to find the thread, logical or narrative, to talk about the virus and the experience --- perhaps still too raw --- of the multiple modalities in which it has fashioned our lives, our relations, and our subjectivities. In thinking about this problem of method, I kept running into the same question, not even my own, actually, but somebody else's question, which framed my own thinking. It was Anne Cvetkovich who asked it, three or four years ago, during a writing workshop in Belgrade: how does capitalism make you feel? The simplest of questions, naïve even, but one which opened up a new critical vocabulary for me. In order to understand the hold of power over the subject, Cvetkovich said, we must catalog its feelings: trace the intimate geography of the collective affects and political feelings that this power generates, as well as those it makes impossible and unlivable. I asked myself then: what are the feelings of my generation, of those who live, grow, and plan on the brink of extinction? What are the affects of generational politics, what does it mean to resent the "parents" who have left us with futureless ruins, economic precarity, and environmental disaster? And how does it feel to say "I don't want to have children, you know, because of climate change" -- what loneliness is in this sentence that keeps rolling out of the mouths of my dearest friends? Is that political loneliness? How do we feel as a generation, as a country, as a people? Do states have feelings? Does Greece feel betrayed by Europe? Did America become depressed after Trump's election?[^1]

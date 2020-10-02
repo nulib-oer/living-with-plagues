@@ -6,10 +6,16 @@ author:
     display_name: Michael Loriaux
     bio: "Michael Loriaux is Professor of European and international politics in the Department of Political Science at Northwestern University. He is the author of Europe Anti-Power, of European Union and the Deconstruction of the Rhineland Frontier, and of other works on European and French politics. He is the founder and director of the French Interdisciplinary Group."
 doi: 10.21985/n2-nzhx-fr97
-image: loriaux.jpg
 keywords:
     - Essays
-bg_img: 'white'
+hero:
+    title: Riding the Bomb
+    creator: Directed by Stanley Kubrick, distributed by Columbia Pictures
+    alt: "Major T. J. 'King' Kong (Slim Pickins) riding the bomb in Stanley Kubrick's 1964 film, Dr. Strangelove."
+    src: loriaux.png
+    url: https://commons.wikimedia.org/wiki/File:Dr._Strangelove_-_Riding_the_Bomb.png
+    license: Public Domain
+    license_url: https://en.wikipedia.org/wiki/Public_domain
 ---
 
 The world is coming to an end. A viral pandemic has struck the financial core of the capitalist world, bringing everyday commerce to a halt and gouging whole percentage points out of gross domestic products. We rich westerners have lost our presumption of immunity. Our expectations of eternal growth have been destabilized. Because we have seen and lived the swiftness with which a virus moves and strikes, because we have seen the disorientation and confusion of the scientific community as it avows "there is so much about this virus that we don't know," and because of the gnawing, irrepressible awareness that other existential threats, like climate change, are lined up to follow, our rich western presumption that "we'll be ready next time" begins to ring hollow. We look for a way "forward," sensing -- this may be the pandemic's most dramatic legacy -- that the word forward needs quotation marks.
