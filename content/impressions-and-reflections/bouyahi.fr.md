@@ -11,6 +11,14 @@ alt: Photo of Eddine Bouyahi
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Omatako Mountains, Namibia
+    src: bouyahi.jpg
+    alt: satelite photo of Omatako Mountains Namibia  
+    creator: Axelspace Corp 
+    url: https://commons.wikimedia.org/wiki/File:Omatako_Mountains,_Namibia.jpg
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 ---
 
 C'est en Janvier 2020, lors de mon séjour de recherche à Pretoria, pour mon doctorat, que le virus du Covid qui sévissait alors dans la ville de Wuhan me vint pour la première fois aux oreilles. Je n'avais jamais entendu le nom de cette mégapole chinoise et ne prêtait pas attention à ces événements lointains. Personne ne parlait de cela dans l'auberge de jeunesse où j'avais posé mes valises le temps de conduire mes entretiens. L'été de l'hémisphère sud ne laissait que peu de place aux réflexions sur un virus mortel venu d'Asie. Comme partout sur la planète nous n'avions pas compris que désormais le local passait les frontières.

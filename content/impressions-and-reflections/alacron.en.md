@@ -9,6 +9,14 @@ doi: 10.21985/n2-zjf7-hm78
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: View of the protests as seen in Plaza Baquedano in 2019
+    src: alacron.jpg
+    alt: protest image from Chile 
+    url: https://commons.wikimedia.org/wiki/File:Marcha_Mas_Grande_De_Chile_2019_Plaza_Baquedano_Drone.jpg
+    creator: Hugo Morales 
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 ---
 
 Imagine a country where suddenly, brutally everything changes. A people goes out into the street and in doing so transforms the idea it had of itself; encounters, assemblies, and committees multiply. Imagine a country which, after many years of dictatorship, finally manages to speak publicly about politics, living conditions, where the word precarization (until recently absent) is now on everyone's lips. In taxicabs, grocery stores, or coffee shops people speak with hope laced with anxiety. What will come might not be the revolution (and yet one never knows, there are no possible calculations) but at the very least a radical transformation of how collective life is conceived. 

@@ -9,6 +9,12 @@ doi: 10.21985/n2-mz2a-dh50
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: untitled
+    src: anzini.jpg
+    alt: picture of a mask on the ground 
+    creator: Patricia Anzini 
+    permission: Courtesy of Patricia Anzini
 ---
 
 It was my first attempt to directly experience the outside world. About five weeks had passed since March 18<sup>th</sup>, 2020, the day the Portuguese authorities declared that the country was in state of emergency due to the COVID-19 global pandemic. Driven by an almost ravenous appetite for another way of experiencing the lockdown and learning what we were in Lisbon at that point, I decided to take the metro in hopes of seeing a friend for a short walk. Startling uncertainties is what I remember feeling during that day, partly due to the astounding silence and emptiness of the station, and partly due to the novelty of a sufficiently-changed world I had not encountered while in confinement. I was experiencing in situ and for the first time other forms of public emotion, interaction, and communication of an emergent pandemic world. I felt that hope was placing me not in the sunny everything-will-get-better narrative, but in the premise that there had to be room to act within the spaciousness of that sheer unknown-ness and silence I was experiencing while waiting for the metro---alone or in concert with a dozen or several million others.

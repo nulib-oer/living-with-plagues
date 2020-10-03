@@ -9,6 +9,14 @@ doi: 10.21985/n2-19sk-fw85
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Frontispiece of Leviathan
+    src: anzini.jpg
+    alt: Frontispiece to Hobbe's Leviathan  
+    creator: Abraham Bosse 
+    url: https://en.wikipedia.org/wiki/File:Leviathan_by_Thomas_Hobbes.jpg
+    license: Public Domain
+    license_url: https://en.wikipedia.org/wiki/Public_domain
 ---
 
 I was born in Mexico in a family where medicine was omnipresent. My father, who is a gynecologist, took me from the body of my mother, also a gynecologist, and birthed me in a hospital I would call home for twenty years. My parents are odd  in that they built their house in the hospital they run. My mother's delivery could almost be considered a home delivery. I grew up surrounded by the medical team and a group of people I would end up knowing quite intimately because they were part of the hospital's daily life. Just like vegetable soup and white rice, the diet of both recovering patients and my own. Just like the nurses, doctors, pharmacists, or cooks I saw parade across from my bedroom. In fact for a long time I didn't know what intimacy was. It was something that was so foreign to me that the first thing I looked for after leaving my parents' home was a space inhabited only by myself, hidden from curious onlookers. Perhaps the only time I appreciated having a hospital for a home was the day I had gallbladder surgery. To enter and exit the operation room, I only had to take the stairs. When I was ill, the nurse or doctor were only one floor away. Medicine thus infiltrated every part of my being and that of my siblings to such an extent that out of the six of us, I am the only one studying something other than medicine. I ended up leaving my childhood home to study philosophy, first in Mexico City and, later, in Paris.

@@ -9,6 +9,14 @@ doi: 10.21985/n2-19sk-fw85
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Frontispiece of Leviathan
+    src: anzini.jpg
+    alt: Frontispiece to Hobbe's Leviathan  
+    creator: Abraham Bosse 
+    url: https://en.wikipedia.org/wiki/File:Leviathan_by_Thomas_Hobbes.jpg
+    license: Public Domain
+    license_url: https://en.wikipedia.org/wiki/Public_domain
 ---
 
 Je suis née au Mexique au sein d'une famille où la médecine était omniprésente. Mon père qui est médecin gynécologue m'a sorti du corps de ma mère, elle aussi gynécologue, et m'a mis au monde dans un hôpital que j'allais appeler maison pendant vingt ans. Car mes parents ont l'étrange particularité d'avoir construit leur maison dans l'hôpital qu'ils dirigent. Ainsi, l'accouchement de ma mère pouvait presque être considéré comme un accouchement à domicile. J'ai donc grandi entourée par l'équipe soignante et par un groupe de personnes que j'allais finir par connaître assez intimement, car ils faisaient partie de la vie quotidienne de l'hôpital. Comme la soupe aux légumes et le riz blanc, à la fois le régime des convalescents et le mien. Comme les infirmiers, médecins, chimistes ou cuisiniers que je voyais défiler en face de ma chambre. D'ailleurs pendant longtemps je n'ai pas eu de notion d'intimité, c'était quelque chose qui m'était tellement étranger que la première chose que j'ai cherché quand je suis partie de chez mes parents fut un espace habité uniquement par moi, à l'abri du regard des curieux. Peut-être la seule fois où j'ai apprécié d'avoir un hôpital comme maison, fut le jour où je dus me faire opérer de la vésicule et où, pour entrer et sortir de la salle d'opération, je n'ai eu qu'à emprunter les escaliers de la maison. Quand j'avais mal, l'infirmière ou le médecin n'étaient qu'à un étage de distance. La médecine a donc imprégné chaque partie de mon être et celle de mes frères et sœurs à tel point que des six enfants que nous sommes, je suis la seule à étudier autre chose que la médecine. C'est ainsi que je me suis retrouvée à partir de la maison de mes parents pour étudier la philosophie à Mexico et, plus tard, à Paris.

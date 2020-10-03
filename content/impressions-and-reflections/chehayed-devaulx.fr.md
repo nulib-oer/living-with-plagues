@@ -9,6 +9,14 @@ doi: 10.21985/n2-2hh6-h252
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Philodendron erubescens
+    src: chehayed-devaulx.jpg
+    alt: picture of a philodendron   
+    creator: Alialb 
+    url: https://en.wikipedia.org/wiki/File:Philodendron_erubescens_-_Leaves.jpg
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 ---
 
 ### Philodendron erubescens : Complainte d'une plante de bureau
@@ -33,7 +41,7 @@ Tiens, un bruit. Des pas ! Je ne les connais pas. Ils tournent dans l'espace re
 
 ### Manus hominis : Complainte de la main engantée
 
-> *Pour penser le sens du toucher, les philosophes ont souvent privilégié la main. Cet organe leur sembler concentrer en lui la noblesse de l'espèce humaine dans sa différence aux autres vivants qui, eux, ne disposent pas de mains. Étant le propre de l'humain, Martin Heidegger va même l'associer à la pensée : « Penser est peut-être simplement du même ordre que travailler à un coffre. C'est en tout cas un travail manuel \[Es ist jedenfalls ein Hand-Werk\]*[^1]* ». La main ne se réduit pas alors à un organe de préhension. Elle « n'est pas une partie organique du corps destinée à prendre, saisir, voire griffer, ajoutons même à prendre, comprendre, concevoir si l'on passe de Greif à begreifen et à Begriff*[^2]* », elle dévoile plutôt « l'essence de l'homme », indique Derrida en lisant Heidegger. Mais que devient la main à l'âge du corona virus ? Dans ce texte, Guillaume de Vaulx et Nibras Chehayed prêtent leur voix à cet organe pour qu'il fasse son témoignage.*
+> _Pour penser le sens du toucher, les philosophes ont souvent privilégié la main. Cet organe leur sembler concentrer en lui la noblesse de l'espèce humaine dans sa différence aux autres vivants qui, eux, ne disposent pas de mains. Étant le propre de l'humain, Martin Heidegger va même l'associer à la pensée : « Penser est peut-être simplement du même ordre que travailler à un coffre. C'est en tout cas un travail manuel \[Es ist jedenfalls ein Hand-Werk\][^1] ». La main ne se réduit pas alors à un organe de préhension. Elle « n'est pas une partie organique du corps destinée à prendre, saisir, voire griffer, ajoutons même à prendre, comprendre, concevoir si l'on passe de Greif à begreifen et à Begriff[^2] », elle dévoile plutôt « l'essence de l'homme », indique Derrida en lisant Heidegger. Mais que devient la main à l'âge du corona virus ? Dans ce texte, Guillaume de Vaulx et Nibras Chehayed prêtent leur voix à cet organe pour qu'il fasse son témoignage._
 
 Plate comme un pied, voilà ce que j'étais avant qu'il ne se lève. D'ailleurs, plate, je le suis restée encore un temps, alors qu'il était debout sur ses pieds, simple amortisseur contre les chutes, non plus asservie à la locomotion du corps, mais encore au service du visage qui ne doit pas fouler la terre, au service de la tête qui risque d'être blessée. Puis, ses pieds se sont ancrés dans le sol, puis il a assuré son équilibre, et j'ai accédé à l'indépendance. Je me suis tournée de la terre vers le ciel, mon pouce est venu en dialogue des autres doigts, je me suis orientée vers les choses, je me suis tendue vers elles, les ai touchées, empoignées, j'ai senti la réalité du monde qui s'offrait à tâtons, immensité à explorer.
 

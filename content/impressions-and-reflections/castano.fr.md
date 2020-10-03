@@ -12,6 +12,14 @@ alt: Photo of a town, taken from the top of a hill
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Taiwan
+    src: castano.jpg
+    alt: satellite photo of Taiwan  
+    creator: NASA
+    url: https://commons.wikimedia.org/wiki/File:Taiwan_NASA_Terra_MODIS_23791.jpg
+    license: Public Domain
+    license_url: https://en.wikipedia.org/wiki/Public_domain
 ---
 
 Quand je suis rentré en Europe, mi-janvier, pour y passer les vacances du nouvel an lunaire, Taïwan avait déjà commencé à mettre en place des mesures pour la contention d'un virus dont la presse internationale n'avait presque pas commencé à parler. La rapidité de cette réaction, motivée par l'expérience traumatique du SARS en 2003, est un des facteurs qui expliquent l'énorme succès de Taïwan dans cette crise : moins de 500 cas, dont seulement une cinquantaine contagionnés à Taïwan (le reste de cas étant tous « importés »), et 7 morts, alors qu'au départ, avec plus un million de ses habitants résidant en Chine et retournant pour les fêtes du nouvel an, on pensait que Taïwan serait le deuxième pays le plus affecté.

@@ -12,6 +12,14 @@ alt: Photo of a town, taken from the top of a hill
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Taiwan
+    src: castano.jpg
+    alt: satellite photo of Taiwan  
+    creator: NASA
+    url: https://commons.wikimedia.org/wiki/File:Taiwan_NASA_Terra_MODIS_23791.jpg
+    license: Public Domain
+    license_url: https://en.wikipedia.org/wiki/Public_domain
 ---
 
 When I returned to Spain, in mid-January, to spend the Lunar New Year holidays, Taiwan had already begun to implement measures to contain a virus the international press had barely started talking about. The speed of this reaction, motivated by the traumatic SARS experience in 2003, is one of the factors that explains Taiwan's enormous success during this crisis: roughly 450 cases, including only about 50 local contagion cases, and 7 dead, when at first, with more than a million of its residents living in China coming back for the holidays, we thought that Taiwan would be the second most affected country.

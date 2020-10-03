@@ -9,11 +9,19 @@ doi: 10.21985/n2-2hh6-h252
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Philodendron erubescens
+    src: chehayed-devaulx.jpg
+    alt: picture of a philodendron   
+    creator: Alialb 
+    url: https://en.wikipedia.org/wiki/File:Philodendron_erubescens_-_Leaves.jpg
+    license: CC BY-SA 4.0
+    license_url: https://creativecommons.org/licenses/by-sa/4.0/deed.en
 ---
 
 ### Philodendron Erubescens: Lament of an Office Plant
 
-> *This piece attends to what is deprived of a voice, what dies silently without even the possibility of screaming. In an office deserted by humans during the coronavirus, a forgotten plant tells its life story. A minor phenomenology shapes its testimony. Beginning with a phenomenological reduction to drive consciousness back to things as they phenomenologize themselves. Then an excessive reduction of this consciousness that recounts itself using "I", the reduced consciousness a plant has of its surrounding environment, ours, itself reduced to suspicion and austerity. *
+> _This piece attends to what is deprived of a voice, what dies silently without even the possibility of screaming. In an office deserted by humans during the coronavirus, a forgotten plant tells its life story. A minor phenomenology shapes its testimony. Beginning with a phenomenological reduction to drive consciousness back to things as they phenomenologize themselves. Then an excessive reduction of this consciousness that recounts itself using "I", the reduced consciousness a plant has of its surrounding environment, ours, itself reduced to suspicion and austerity._
 
 I am thirsty and I am dying. I am dying of thirst. I was near the window when they left. But when they left it was still winter. Now it is spring, a spring with the torrid air of Summer. The sun burns my waxy leaves, the soil is dry, I agonize. And nothing, two months and not a sound. Not a sound to announce that my soil will be inundated. Not a drop. Because in this place, its does not rain on my leaves, it does not mist on my aerial roots. The air remains hopelessly dry. 
 
@@ -33,7 +41,7 @@ Wait, a sound. Steps! I do not know them. They circle the limited space that sur
 
 ### Manus Hominis: Lament of the Gloved Hand
 
-> *To think the sense of touch, philosophers have often privileged the hand. To them, this organ seemingly concentrates within itself the nobility of the human species in its difference with other living beings who do not have hands at their disposal. Being properly human, Martin Heidegger would even associate it with thought: "Perhaps thinking, too, is just somehting like building a cabinet. At any rate, it is a craft, a 'handicraft' \[Es ist jedenfalls ein Hand-Werk\]." Thus, the hand is not simply a prehensile organ. It "is not an organic part of the body intended to grasp , take hold, or indeed scratch \[griffer\], and let us add grasp \[prendre\], comprehend, conceive, if one moves from Greif to begreifen and to Begriff," it reveals instead "the essence of man," writes Derrida reading Heidegger. But what becomes of the hand in the time of the coronavirus? In this piece, Guillaume de Vaulx and Nibras Chehayed lend their voice to this organ so that it might testify. *
+> _To think the sense of touch, philosophers have often privileged the hand. To them, this organ seemingly concentrates within itself the nobility of the human species in its difference with other living beings who do not have hands at their disposal. Being properly human, Martin Heidegger would even associate it with thought: "Perhaps thinking, too, is just somehting like building a cabinet. At any rate, it is a craft, a 'handicraft' \[Es ist jedenfalls ein Hand-Werk\]." Thus, the hand is not simply a prehensile organ. It "is not an organic part of the body intended to grasp , take hold, or indeed scratch \[griffer\], and let us add grasp \[prendre\], comprehend, conceive, if one moves from Greif to begreifen and to Begriff," it reveals instead "the essence of man," writes Derrida reading Heidegger. But what becomes of the hand in the time of the coronavirus? In this piece, Guillaume de Vaulx and Nibras Chehayed lend their voice to this organ so that it might testify._
 
 Flat as a foot, this is how I was before he rose up. In fact, I remained flat for a while longer, though he was up on his feet, a mere shock absorber against falls, no longer subjected to the locomotion of the body, but still in the service of the face that must not meet the ground, in the service of the head that might be wounded. Then, his feet anchored themselves to the ground, then he secured his balance, and I acceded to independence. I turned away from the ground toward the sky, my thumb entered into dialogue with the other fingers, I oriented myself toward things, I reached for them, touched them, grasped them, I felt the reality of a world offering itself by feel, a vastness to be explored.
 
