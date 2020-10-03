@@ -1,21 +1,38 @@
 {{ define "main" }}
+<div class="contain-1120">
+    <ul id="breadcrumbs">
+        <li><a href="https://buffett.northwestern.edu/index.html">Buffett Home</a></li>
+        <li><a href="{{ .Site.BaseURL }}">Living with Plagues</a></li>
+        <li><a href="{{ "/impressions-and-reflections/" | relLangURL }}">Impressions and Reflections</a></li>
+        <li class="active">{{ .Title }}</li>
+    </ul>
+</div>
+<div class="contain-1440">
+    <img alt="{{ .Params.hero.alt }}" title="{{ .Params.hero.title }}" src="/images/{{ .Params.hero.src }}">
+</div>
+<div class="contain-970">
+    <div class="section">
+        <small>Image credit: <a href="{{ .Params.hero.url }}">{{ .Params.hero.title }}</a> by {{ .Params.hero.creator }}. 
+
+            {{ if .Params.hero.license_url }}
+            
+            Distributed under <a href="{{ .Params.hero.license_url }}"> {{ .Params.hero.license }}</a>.
+        
+            {{ else }}
+
+            Courtesy of {{ .Params.hero.creator }}
+
+            {{ end }}
+
+        </small>
+    </div>
+</div>
 <div id="page">
     <main id="main-content" class="content" tabindex="-1">
-        <div class="contain-1120">
-            <ul id="breadcrumbs">
-                <li><a href="https://buffett.northwestern.edu/index.html">Buffett Home</a></li>
-                <li><a href="{{ .Site.BaseURL }}">Living with Plagues</a></li>
-                <li><a href="{{ "impressions-and-reflections/" | relLangURL }}">Impressions and Reflections</a></li>
-                <li class="active">{{ .Title }}</li>
-            </ul>
-        </div>
-        <div class="section large-feature purple-slashes" style="background: url('https://common.northwestern.edu/v8/css/images/slashes-{{ .Params.bg_img }}-bg.gif') no-repeat center / cover">
+        <div class="section large-feature" style="background: url('https://common.northwestern.edu/v8/css/images/slashes-{{ .Params.bg_img }}-bg.gif') no-repeat center / cover">
             <h2 style="text-align:center">{{ .Title | markdownify }}</h2>
             <div class="large-feature-inner">
                 <div class="content-side">
-                    {{ if .Params.image }}
-                    <img alt="{{ .Page.Params.alt }}" src="/images/{{ .Page.Params.image }}"/>
-                    {{ end }}
                     <div class="text">
                         <h5>By {{ .Params.author.display_name }}</h5>
                         <p>{{ .Params.author.bio | markdownify }}</p>
