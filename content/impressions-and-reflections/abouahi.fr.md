@@ -11,6 +11,14 @@ image: abouahi.jpg
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: The angel of death striking a door during the plague of Rome
+    src: abouahi.jpg
+    alt: The angel of death striking a door during the plague of Rome
+    url: https://wellcomecollection.org/works/wwraaugh
+    creator: Jules-Elie Delaunay
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0/
 ---
 
 La date de ce jour est le 4 juin 2020. Le retour à Reims se fait sous la pluie, après une première sortie à plus de cent kilomètres de la ville. Pour une soirée d'anniversaire, chacun.e avait la panoplie de rigueur. On s'est bien vite rendu compte du malaise des retrouvailles, de la difficulté à se tenir à distance pour se parler, des gestes « barrière » qui ne sont pas encore bien assimilés. Pour cause : les habitudes ont la vie longue, mais elles ont besoin d'une certaine longue durée pour fonctionner comme « une seconde nature ». Il faudra encore du temps pour s'habituer à vivre en société autrement, à moins que ces phases de l'époque « Covid19 » ne soient seulement les moments d'une parenthèse bientôt archivée.

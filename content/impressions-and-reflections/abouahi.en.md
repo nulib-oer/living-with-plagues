@@ -12,6 +12,14 @@ image: abouahi.jpg
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: The angel of death striking a door during the plague of Rome
+    src: abouahi.jpg
+    alt: The angel of death striking a door during the plague of Rome
+    url: https://wellcomecollection.org/works/wwraaugh
+    creator: Jules-Elie Delaunay
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0/
 ---
 
 Today's date is June 4<sup>th</sup>, 2020. The return to Reims is in the rain following my  first outing of more  than one hundred kilometers from the city. For a birthday party, everyone had what was needed. We quickly became aware of the uneasiness of this reunion, of the difficulty to stay at a distance while talking to one another. The habits that protect us are not yet ingrained. Habits are hard to beat, but they need a certain longue durée to become "second nature." It will take time to get used to living in society otherwise if the various  phases of the "Covid-19" era are more than mere  moments of a parenthesis that will soon close. 
@@ -20,7 +28,7 @@ It is early June 2020, and I am returning to my hometown, Sarreguemines. It will
 
 In Sarreguemines, invited guests speak without restraint. So-and-so was afraid of becoming an alcoholic. Another one did not understand post-confinement melancholia. So-and-so read a lot, did not listen to the radio much, did not really like online happy hours. Another one claims to be "disgusted" by the lynching of a French woman by Germans in the town of Saarbrücken. These are stories among others, and it is important to hear them. They allow me to put my own experience into perspective and to realize that I could very well relate it here, with the others. Not because my speech is more legitimate than theirs, but because it helps to share one's lived experience, in tune with others and singular only relative to others. 
 
-Thursday March 12^th^, 2020 in the evening: televised allocution by Emmanuel Macron. I am coming from a long day of classes and oral examinations. I teach in CPGE in two Reims high schools: Lycée Jean-Jaurès and Lycée Georges-Clemenceau. I'm finished with my first years in EC where students study for their business schools entrance exams. For a week now we have been asking ourselves when "stage 3" will start. I start to see students wearing masks. I remember to wash my hands more often, to not speak too close to my interlocutors. I'm struck: I didn't  use to think about it like that. I still meet my friends outside of  school. In Paris, as in Reims, worries about our new lives are unsettling. But our uncertainties are such that we cannot quite  believe it. In a show on France Culture, a young Chinese man from Wuhan recounts similar conversations, implicitly describing how these statements were linked to official discourses. 
+Thursday March 12<sup>th</sup>, 2020 in the evening: televised allocution by Emmanuel Macron. I am coming from a long day of classes and oral examinations. I teach in CPGE in two Reims high schools: Lycée Jean-Jaurès and Lycée Georges-Clemenceau. I'm finished with my first years in EC where students study for their business schools entrance exams. For a week now we have been asking ourselves when "stage 3" will start. I start to see students wearing masks. I remember to wash my hands more often, to not speak too close to my interlocutors. I'm struck: I didn't  use to think about it like that. I still meet my friends outside of  school. In Paris, as in Reims, worries about our new lives are unsettling. But our uncertainties are such that we cannot quite  believe it. In a show on France Culture, a young Chinese man from Wuhan recounts similar conversations, implicitly describing how these statements were linked to official discourses. 
 
 It is true that on March 12,at  8:30pm, our  relationships to our lives, to others, and to the world were significantly changed. We know the weight of the words of a speech, at least theoretically. The words of "the Appeal of June 18" and of André Malraux's funeral oration for Jean Moulin still echo, even though they come  from another century. We might also recall Daladier's radio speeches from September 1939. Are we in the same situation? The words of the current president, "we are at war," caused a stir. In their midst, questions: are we really at war? Are we still at war as we enter "progressive de-confinement"? 
 
