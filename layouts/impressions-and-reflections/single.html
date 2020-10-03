@@ -43,6 +43,9 @@
     <main id="main-content" class="content" tabindex="-1">
         <div class="section large-feature" style="background: url('https://common.northwestern.edu/v8/css/images/slashes-{{ .Params.bg_img }}-bg.gif') no-repeat center / cover">
             <h2 style="text-align:center">{{ .Title | markdownify }}</h2>
+            {{ if .Params.subtitle }}
+            <h3 style="text-align:center;">{{ .Params.subtitle | markdownify }}</h3>
+            {{ end }}
             <div class="large-feature-inner">
                 <div class="content-side">
                     {{ if .Params.headshot }}

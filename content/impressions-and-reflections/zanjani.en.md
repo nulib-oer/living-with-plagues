@@ -1,5 +1,6 @@
 ---
-title: "At the heart of the Unknown Seeking the New! > --Baudelaire, Le Voyage"
+title: "At the heart of the Unknown Seeking the New!"
+subtitle: "_--Baudelaire, Le Voyage_"
 author:
     given_name: Mali
     middle_name: Alinejad
