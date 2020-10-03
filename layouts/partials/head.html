@@ -25,7 +25,11 @@
     <meta property="og:title" content="{{ .Page.Title }} | {{ .Site.Title }}" />
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:description" content="Living with Plagues is a collection of personal essays and reflections on the COVID-19 pandemic, written by students and faculty of Northwestern University and the École Normale Supérieure of Paris, France." />
+    {{ if or (eq .Section "essays") (eq .Section "impressions-and-reflections") }}
+    <meta property="og:image" content="{{ .Params.hero.src }}" />
+    {{ else }}
     <meta property="og:image" content="/images/home.jpg" />
+    {{ end }}
     {{ if or (eq .Section "essays") (eq .Section "impressions-and-reflections") }}
     <!-- Google Scholar Metadata Block -->
     <meta name="citation_title" content="{{ .Title }}">
