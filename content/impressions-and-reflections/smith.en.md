@@ -11,6 +11,14 @@ doi: 10.21985/n2-w4yq-g238
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Novel Coronavirus SARS-CoV-2
+    src: smith.jpg
+    alt: Sars-Cov-2 virus microscope image  
+    creator: NIAID/NIH
+    url: https://www.flickr.com/photos/nihgov/50098378522/
+    license: Public Domain
+    license_url: https://en.wikipedia.org/wiki/Public_domain
 ---
 
 I have learned that plagues do strange things to the passage of time. I started playing *Pathologic 2* in late March, less than a week after I moved out of my co-op to quarantine at my partner's apartment. Since then, I have apparently played the game for one hundred and thirty-four hours, though that doesn't feel right. Maybe I left the game open on pause too often, because I don't remember playing it that much. The idea that I've spent five cumulative days playing a video game is less troubling than the fact that I don't actually know if that's true; this experience is challenging to quantify meaningfully both within the game and outside of it. I know for certain that three months have passed since the beginning of quarantine, but this knowledge does not give my memories of this period any real shape or order. *Pathologic 2* ends after twelve in-fiction days, each of which is roughly two hours in length, but due to its infamous difficulty---the game's menu describes the intended experience as "almost unbearable"---I died sixty-eight times and had to load a save more times than I could have counted if I wanted to. Twelve days, which should translate to one day, apparently took five days, spread out across three months, which felt like a moment and an eternity all at once.

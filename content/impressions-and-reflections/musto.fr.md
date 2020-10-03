@@ -9,6 +9,14 @@ doi: 10.21985/n2-2v7k-ge02
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: The plague of Florence in 1348, as described in Boccaccio's Decameron.
+    src: musto.jpg
+    alt: plague of florence engraving 
+    url: https://wellcomecollection.org/works/awnp6vyq
+    creator: L. Sabatelli
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0/
 ---
 
 « La seule façon de mettre les gens ensemble --- disait Camus --- c'est encore de leur envoyer la peste ». Les conséquences sociales d'une maladie qui atteint de manière indifférenciée toutes les strates de la population sont en effet remarquables et inévitables. Elles sont inscrites dans le mot qui la désigne, la pandémie, qui parle d'un démos touché, mais aussi, inéluctablement, transformé, voire créé par un évènement troublant et inattendu.

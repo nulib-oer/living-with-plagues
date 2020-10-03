@@ -4,11 +4,19 @@ author:
     display_name: Samuel Weber
     bio: 'Samuel Weber teaches Critical Theory, German and Comparative Literature at Northwestern and directs that University’s Paris Program in Critical Theory. In 2021 his new book “Singularity: Politics and Poetics” will be published by the University of Minnesota Press.'
 doi: 10.21985/n2-gz9v-ep61
-image: weber.jpg
+headshot: weber.jpg
 alt: Photo of Samuel Weber
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Der Doctor Schnabel von Rom
+    creator: Paul Fürst
+    alt: plague doctor engraving 
+    src: weber.png
+    url: https://commons.wikimedia.org/wiki/File:Paul_F%C3%BCrst,_Der_Doctor_Schnabel_von_Rom_(Holl%C3%A4nder_version).png
+    license: Public Domain
+    license_url: https://en.wikipedia.org/wiki/Public_domain
 ---
 
 In 1729, Jonathan Swift published his bitterly satiric proposal to remedy the problems created by growing poverty in an Ireland that had been under English rule for over 500 years. Swift's essay, written almost 300 years ago, sought to expose not just the injustice perpetrated on the Irish people by their English rulers and their Irish collaborators, but also to reveal how certain modes of construing the betterment of society, without questioning the power-relations at the source of its injustices, were co-responsible for the suffering produced by those injustices.

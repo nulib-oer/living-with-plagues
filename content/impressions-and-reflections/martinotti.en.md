@@ -10,6 +10,12 @@ doi: 10.21985/n2-fc15-wb84
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: untitled
+    src: martinotti.jpg
+    alt: abstract painting 
+    creator: Mali Alinejad Zanjani
+    permission: Courtesy of Mali Alinejad Zanjani.
 --- 
 
 From the Pays d'Oc to Ile-de-France in Pays d'Oil*,* from the Tarn to the Seine, from earth to stone, from small village to megalopolis. Rabastens-Paris as the crows fly is much more than a kilometer; it is more than one hundred kilometers; and, during a pandemic, truth be told, it is neither less nor more, it is simply a spatiotemporal and mental chasm that cannot be reduced to a quantitative measure. 

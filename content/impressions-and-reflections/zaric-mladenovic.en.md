@@ -9,6 +9,14 @@ doi: 10.21985/n2-6bn1-at64
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Circles in a Circle 
+    src: zaric-mladenovic.jpg
+    alt: abstract painting of cricles   
+    creator: Wassily Kandinsky
+    url: https://commons.wikimedia.org/wiki/File:Wassily_Kandinsky_Circles_in_a_Circle.jpg
+    license: Public Domain - United States - PD-US-Expired
+    license_url: https://commons.wikimedia.org/wiki/Template:PD-US-expired
 --- 
 
 With the coronavirus pandemic, the entire planet is now living through a unique moment. Globalized societies have deserted the economy, work, and leisure to combat the virus. They went from power struggles to the goal of collective survival. 

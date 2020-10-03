@@ -11,6 +11,12 @@ alt: Grains of rice on a table cloth
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: untitled
+    src: justo.jpg
+    alt: shilouhette of brazil in dried good, red background
+    creator: Nathalia Justo
+    permission: Courtesy of Nathalia Justo.
 --- 
 
 When one of the teachers of our local school in São Paulo set out for a fearful, but protected trip to the grocery store, she saw one of her students selling candy in the streets. It is hard to tell which was harder: knowing that Covid-19 had so quickly deteriorated the conditions of a middle class family or knowing that, with the restrictions on movement and contact, it would be nearly impossible for this kid to sell his candy. Through Whatsapp messages and zoom calls this news spread and resonated with the whole school community. Already struggling to pay rent and bills, teachers organized to collect money to buy and distribute food kits. Following this effort, I asked myself: are food donations what we should be doing right now? One of the first lessons that I had learnt when I started my undergraduate studies was that charity and agrarian reform stood at the opposite poles of possible solutions to the problems of hunger and inequality in Brazil. Conversations and debates across the academic community so often frame donating to homeless people or philanthropic organizations as a fragile band-aid sloppily placed over a deeper wound that can only be addressed structurally. However, I suspect that surviving in pandemic times has required a very practical and different engagement with these previous categorizations. When millions of people become destitute overnight, joining millions more who were already affected by a recent economic crisis, giving can be a radical act that opens up the imaginative horizons of transformation precisely because it brings to the fore the dire need for deeper change. It challenges previous conceptions of what is possible and necessary in the short and long terms, and what falls under the realm of individual and collective responsibility.

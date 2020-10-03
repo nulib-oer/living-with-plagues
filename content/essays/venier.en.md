@@ -9,6 +9,14 @@ doi: 10.21985/n2-6zrf-py23
 keywords:
     - Essays
 bg_img: 'white'
+hero:
+    title: Two Girls
+    src: venier.jpg
+    alt: painting of two women sitting indoors
+    creator: Berthe Morisot  
+    url: https://commons.wikimedia.org/wiki/File:Berthe_Morisot_-_Two_Girls_-_Google_Art_Project.jpg
+    license: Public Domain - United States - PD-US-Expired
+    license_url: https://commons.wikimedia.org/wiki/Template:PD-US-expired
 ---
 
 ## Terms

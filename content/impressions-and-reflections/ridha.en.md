@@ -9,6 +9,14 @@ doi: 10.21985/n2-0er1-2b76
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Balinese Stone Carvings
+    src: ridha.jpg
+    alt: Balinese stone carvings 
+    url: https://commons.wikimedia.org/wiki/File:Balinese_Stone_Carvings.jpg
+    creator: Jordy Meow
+    license: CC BY 3.0
+    license_url: https://creativecommons.org/licenses/by/3.0/deed.en
 --- 
 
 It is hard to deny that when we talk about Indonesia in the era of the corona virus pandemic, we seem to be talking about a massive failure of the state. The inability of the state to provide effective protection has led to a catastrophe for its citizens. Indonesia now has the highest number of cases of the virus in the South East Asia region. The death rate of health workers due to the corona infection is also one of the highest in the world. Not to mention the economic difficulties that have emerged due to the pandemic, like the loss of livelihood, unemployment, and even bankruptcy among the Indonesian small businesses. 

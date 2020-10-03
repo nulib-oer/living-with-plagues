@@ -1,5 +1,5 @@
 ---
-title: "Au fond de l’inconnu pour trouver du nouveau !"
+title: "Au fond de l’inconnu pour trouver du nouveau ! > --Baudelaire, Le Voyage"
 author:
     given_name: Mali
     middle_name: Alinejad
@@ -11,9 +11,13 @@ doi: 10.21985/n2-6bn1-at64
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Confinés à Rabastens (Fevrier 2020)
+    creator: Mali Alinejad Zanjani
+    alt: abstract painting
+    src: zanjani.jpg
+    permission: Courtesy of Mali Alinejad Zanjani.
 ---
-
-> --Baudelaire, Le Voyage
 
 Le temps est la dimension ontologique fondamentale qui structure notre rapport intellectuel et pratique au monde. Le confinement à Rabastens, petit village dans le Tarn, en Occitanie, s'articulait autour d'un temps qui me semblait s'écouler trop rapidement pour me permettre d'instaurer un rapport aux autres et aux choses, me livrer du sens. Nous étions de passage, un passage infini d'instants dans l'extension de l'esprit, sans savoir jusqu'à quand. Nous étions suspendus inertes, essayant de soutenir notre routine devenue insoutenable par la contrainte du confinement. Le moindre bruit du bois de la maison nous semblait nous priver de notre intimité.
 

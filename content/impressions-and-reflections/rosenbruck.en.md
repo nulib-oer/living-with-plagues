@@ -10,6 +10,12 @@ doi: 10.21985/n2-ev17-4366
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: untitled
+    src: rosenbruck.jpg
+    alt: abstract painting 
+    creator: Lorenzo Conte
+    permission: Courtesy of Lorenzo Conte.
 ---
 
 A potentially lethal disease that is mainly transmitted via airborne droplets and aerosol particles[^1] changes our relationship to space: the usual demarcating lines of visual or material barriers are replaced by diffuse, indeterminate, and largely unknowable distributions of air. The very invisibility and, indeed, imperceptibility of the danger in which one finds oneself at any given moment brings out what Elias Canetti in a speech given in November 1936 called the radical "defenselessness of breathing".[^2] Absolutely necessary, breathing must occur if life is to exist, and this very necessity constitutes the extremity of the human being's exposure to its environment: "To nothing is man so open as to air" (Canetti, 13), an openness that indeed marks an extreme point since it is no longer opposed to the possibility of (a more than very brief) closure. In short, the pervasiveness of the risk of contracting a respiratory disease and the absence of operations that would foreclose such contraction showcase that nothing is so worrisome, so intensely given over to Sorge, as our "being-in-the-air." 

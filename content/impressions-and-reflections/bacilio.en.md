@@ -11,7 +11,7 @@ keywords:
 bg_img: 'white'
 hero:
     title: Frontispiece of Leviathan
-    src: anzini.jpg
+    src: bacilio.jpg
     alt: Frontispiece to Hobbe's Leviathan  
     creator: Abraham Bosse 
     url: https://en.wikipedia.org/wiki/File:Leviathan_by_Thomas_Hobbes.jpg

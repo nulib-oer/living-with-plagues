@@ -9,6 +9,14 @@ doi: 10.21985/n2-bkfc-v461
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Arch Collapse
+    src: dekoznik.jpg
+    alt: crumbling rock face
+    url: https://imaggeo.egu.eu/view/1380/
+    creator: Robert Wills
+    license: CC BY-NC-SA 3.0
+    license_url: http://creativecommons.org/licenses/by-nc-sa/3.0/
 ---
 
 Sometime in the late 2000s, I invented a game called Apocalypse vs. Apocalypse. The rules are simple: two or more people sit together and each proposes a different apocalypse---for example, a cataclysmic flood buries entire countries, zombies walk the Earth, a gigantic meteor crashes, robots gain consciousness and try to wipe out their human bosses, an incurable plague spreads, nuclear war breaks out, or hostile aliens arrive---and then speculate about how the apocalypses would play out, in tandem or in conflict with one another. Maybe human survivors fighting zombies would stand a better chance in a massive flooding scenario because zombies wouldn't know how to seek higher ground? Or maybe governments would use nuclear missiles to fight aliens which would cause a generations-long nuclear winter?

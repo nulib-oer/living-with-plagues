@@ -9,6 +9,14 @@ doi: 10.21985/n2-63nf-sw83
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: untitled
+    src: li.jpg
+    alt: Photo of a person wearing a mask and fairy lights
+    url: https://pixabay.com/photos/coronavirus-mask-lights-art-5125454/
+    creator: Engin Akyurt
+    license: Pixabay License
+    license_url: https://pixabay.com/service/license/
 --- 
 
 These days, a doctoral student is lucky to find the opportunity to apply her acquired skills immediately after her dissertation, which will have taken years, after the sleepless nights she will have endured and the long monologues she will have delivered in front of an audience so as to convince them. This is why it was a kind of privilege for me, having defended a dissertation on asceticism in 2019, to be able to confront over these past few months an authentic and lived kind of asceticism---and what could appear to some an ancient if not outmoded topic suddenly became a harsh reality. 

@@ -9,6 +9,14 @@ doi: 10.21985/n2-2v7k-ge02
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: The plague of Florence in 1348, as described in Boccaccio's Decameron.
+    src: musto.jpg
+    alt: plague of florence engraving 
+    url: https://wellcomecollection.org/works/awnp6vyq
+    creator: L. Sabatelli
+    license: CC BY 4.0
+    license_url: https://creativecommons.org/licenses/by/4.0/
 --- 
 "The only way to bring people together--- wrote Camus---is to send them the plague." The social consequences of a disease which indifferently impacts all layers of the population are indeed remarkable and inevitable. They are inscribed in the word that designate it, the *pandemic,* which speaks of a *demos* impacted, but also, ineluctably, transformed, if not created, by a troubling and unexpected event. 
 

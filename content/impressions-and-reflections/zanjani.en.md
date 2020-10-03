@@ -1,5 +1,5 @@
 ---
-title: "At the heart of the Unknown Seeking the New!"
+title: "At the heart of the Unknown Seeking the New! > --Baudelaire, Le Voyage"
 author:
     given_name: Mali
     middle_name: Alinejad
@@ -11,9 +11,13 @@ doi: 10.21985/n2-fsyh-hg28
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: Confinés à Rabastens (Fevrier 2020)
+    creator: Mali Alinejad Zanjani
+    alt: abstract painting
+    src: zanjani.jpg
+    permission: Courtesy of Mali Alinejad Zanjani.
 ---
-
-> --Baudelaire, Le Voyage
 
 Time is the fundamental ontological dimension which structures our intellectual and practical relationship to the world. Confinement in Rabastens, a small village in Tarn, in Occitania, was articulated around a time that seemed to unfold too quickly to allow me to instigate a relationship to others and to things, to provide me with meaning. We were passing, an infinite passage made of moments in the extension of the mind, without knowing until when. We were suspended, inert, trying to maintain a routine that had become unbearable under the constraints of confinement. The faintest sound from the wood of the house seemed to deprive us of our intimacy. 
 

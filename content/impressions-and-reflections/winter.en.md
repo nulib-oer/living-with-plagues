@@ -9,6 +9,12 @@ doi: 10.21985/n2-gxz0-rd70
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: untitled
+    creator: Ilenia Madelaire
+    alt: painting of gloved hand
+    src: winter.jpg
+    permission: Courtesy of Ilenia Madelaire.
 ---
 
 Over the course of the Coronavirus pandemic, philosopher Giorgio Agamben published a series of short essays through the Italian outlet Quodlibet, the most infamous of which remains the first set of reflections, entitled "L'invenzione di un'epedemia"[^1]. These writings were met with a barrage of criticism from philosophers and political commentators alike, all of whom emphasized the carelessness of his claim that the virus was a pure invention of the State, a pretense for the continued expansion of its powers of repression and control over the life of its citizens. But if we connect Agamben's major claim -- that the virus is yet another example of the normalcy of the state of exception and its decision upon "bare life" -- to its more Marxist concerns, it is possible to glean some major insights that can carry us forward in our conceptualization of life beyond capitalism.

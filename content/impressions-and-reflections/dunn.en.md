@@ -11,6 +11,12 @@ doi: 10.21985/n2-47gx-4m83
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: untitled
+    src: dunn.jpg
+    alt: photo of shopping carts in parking lot 
+    creator: Sorrel Dunn
+    permission: Courtesy of Sorrel Dunn.
 ---
 
 Lingering outside stores, gathering conspiratorially in loading zones, abandoned on the far sides of parking lots or on sidewalks or in downtown pedestrian zones, half-concealed behind hedges: the common shopping cart became an unexpected emblem of Chicago's shelter in place order as the COVID-19 pandemic swept into U.S. consciousness. It is the sign of stock-piling and food hoarding, of food insecurity and fear. The further it gets from the grocery store parking lot, the more uncanny it becomes. Because a cart is only at home in the lot and the store, it brings the lot and the store with it: and with the lot and the store, it also brings the car, and with car the distance between home and what it takes to live there. And with that distance, other distances---between farms and processing plants, plants and shipping centers, shipping centers and population centers, population centers and peripheries. And with these distances, the fuel to cross them, and with that fuel, the markets and industries that extract, process, and sell it, and with those markets and industries, the uneven threads that support life---and tie the net of the pandemic. The shopping cart is the part of global capitalism that many of us grip in our hands, that we push forward to survive, and that, at least sometimes, we steer.

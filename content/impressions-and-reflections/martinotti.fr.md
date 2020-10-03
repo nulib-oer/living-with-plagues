@@ -10,6 +10,12 @@ doi: 10.21985/n2-fc15-wb84
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: untitled
+    src: martinotti.jpg
+    alt: abstract painting 
+    creator: Mali Alinejad Zanjani
+    permission: Courtesy of Mali Alinejad Zanjani.
 --- 
 
 Du Pays d'Oc à l'Île-de-France d'Oïl, du Tarn à la Seine, de la terre à la pierre, du petit village à la mégalopole. Rabastens-Paris à vol d'oiseau c'est bien plus qu'un kilomètre, c'est plus que cent kilomètres et, en période de pandémie, à vrai dire, ce n'est ni plus ni moins, c'est tout simplement un abîme spatio-temporel et mental que l'on ne saurait ramener à une mesure quantitative.

@@ -9,6 +9,14 @@ doi: 10.21985/n2-63nf-sw83
 keywords:
     - plauges
 bg_img: 'white'
+hero:
+    title: untitled
+    src: li.jpg
+    alt: Photo of a person wearing a mask and fairy lights
+    url: https://pixabay.com/photos/coronavirus-mask-lights-art-5125454/
+    creator: Engin Akyurt
+    license: Pixabay License
+    license_url: https://pixabay.com/service/license/
 --- 
 
 De nos jours, un doctorant a de la chance s'il trouve l'opportunité de mettre en pratique ses connaissances acquises tout de suite après sa thèse, qui aura duré des années, après les nuits d'insomnie qu'il aura passées et les longs monologues qu'il aura tenus devant une audience à convaincre. C'est pourquoi ce fut pour moi une sorte de privilège, après avoir soutenu une thèse sur l'ascétisme en 2019, de pouvoir ces derniers mois me confronter à un ascétisme authentique, vécu -- et ce qui pourrait paraître à certains un sujet ancien voire démodé devint tout à coup une rude réalité.
