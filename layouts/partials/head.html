@@ -22,11 +22,12 @@
     <![endif]-->   
     <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
     <!-- Open Graph Metadata Block -->
+    <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ .Page.Title }} | {{ .Site.Title }}" />
     <meta property="og:url" content="{{ .Permalink }}" />
     <meta property="og:description" content="Living with Plagues is a collection of personal essays and reflections on the COVID-19 pandemic, written by students and faculty of Northwestern University and the École Normale Supérieure of Paris, France." />
     {{ if or (eq .Section "essays") (eq .Section "impressions-and-reflections") }}
-    <meta property="og:image" content="/images/{{ .Params.hero.src }}" />
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/{{ .Params.hero.src }}" />
     {{ else }}
     <meta property="og:image" content="/images/home.jpg" />
     {{ end }}
@@ -39,7 +40,7 @@
     <meta name="citation_publisher" content="Buffett Institute for Global Affairs at Northwestern University">
     <meta name="citation_doi" content="{{ .Params.doi }}">
     <meta name="citation_language" content="{{ .Site.Language.Lang }}">
-    <meta name="citation_pdf_url" content="/files/{{ .File.BaseFileName }}.pdf">
+    <meta name="citation_pdf_url" content="{{ .Site.BaseURL }}files/{{ .File.BaseFileName }}.pdf">
     <!-- JSON-LD Schema.Org Metadata -->
     <script type="application/ld+json">
         {
