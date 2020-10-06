@@ -27,7 +27,8 @@
                     <a href="{{ .Params.hero_creator_url }}">{{ .Params.hero_creator }}</a> 
                     {{ else }}
                     {{ .Params.hero_creator }}
-                    {{ end }}, distributed under <a href="{{ .Params.hero_license_url }}">{{ .Params.hero_license }}</a></small>
+                    {{ end }}, distributed under <a href="{{ .Params.hero_license_url }}">{{ .Params.hero_license }}</a>
+                </small>
 
             </div>
 
@@ -37,18 +38,48 @@
 
                     {{ range .Pages }}
 
-                    <article class="feature-box">
-                        <div class="feature-copy">
-                            <h3>
-                                <a href="{{ .RelPermalink }}">
-                                    {{ .Title | markdownify }}
-                                </a>
-                            </h3>
-                            <h6>By {{ .Params.author.display_name }}</h6>
-                            <p>{{ .Params.author.bio | markdownify }}</p>
-                        </div>
-                        <a class="button" href="{{ .RelPermalink }}">Read</a>
-                    </article>
+                        {{ if .IsTranslated }}
+
+                            {{ range .Translations }}
+
+                                {{ if eq .Site.Language.LanguageName "French" }}
+
+                                <article class="feature-box">
+                                    <div class="feature-copy">
+                                        <h3>
+                                            <a href="{{ .RelPermalink }}">
+                                                {{ .Title | markdownify }}
+                                            </a>
+                                        </h3>
+                                        <h6>By {{ .Params.author.display_name }}</h6>
+                                        <p>{{ .Params.author.bio | markdownify }}</p>
+                                        <ul>
+                                            <li><a href="/{{ .Section }}/{{ .File.TranslationBaseName }}/">Read the English Translation</a></li>
+                                        </ul>
+                                    </div>
+                                    <a class="button" href="{{ .RelPermalink }}">Read</a>
+                                </article>
+
+                                {{ end }}
+
+                            {{ end }}
+
+                        {{ else }}
+
+                        <article class="feature-box">
+                            <div class="feature-copy">
+                                <h3>
+                                    <a href="{{ .RelPermalink }}">
+                                        {{ .Title | markdownify }}
+                                    </a>
+                                </h3>
+                                <h6>By {{ .Params.author.display_name }}</h6>
+                                <p>{{ .Params.author.bio | markdownify }}</p>
+                            </div>
+                            <a class="button" href="{{ .RelPermalink }}">Read</a>
+                        </article>
+
+                        {{ end }}
 
                     {{ end }}
 
