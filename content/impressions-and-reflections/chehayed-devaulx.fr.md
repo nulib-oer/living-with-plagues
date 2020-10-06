@@ -57,4 +57,4 @@ Condamnée à l'insensibilité, je suis affairée au tapotage machinal des clavi
 
 [^1]: Martin Heidegger, *Qu'appelle-t-on penser* *?*, traduit par Aloys Becker & Gérard Granel, Paris, PUF, 1973 \[1959\], p. 89-90. Cité par Jacques Derrida in *Psyché* *: Inventions de l'autre*, Paris, Galilée, 1987, p. 425‒26.
 
-[^2]: Jacques Derrida, *Psyché*,* *p. 427.
+[^2]: Jacques Derrida, *Psyché*, p. 427.

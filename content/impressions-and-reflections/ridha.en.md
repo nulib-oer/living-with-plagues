@@ -31,6 +31,6 @@ An example of this experience can be seen from the emergence of a people\'s orga
 
 One can be skeptical whether such can have a strong political impact on the state. But at the very least, the cross-border initiative represents a certain sentiment of the people who have organized themselves in the mutual aid activities. There is a common sentiment across the border that the current state governance cannot be justified. The question then is whether such feeling can be realized into concrete political action to pressure the state. And with the emerging experience of cross-countries initiative at the grassroot level, it seems that the pressure in the era pandemic can only be organized through some form of international solidarity.
 
-[^1\]: Preuss, S. (2020, April 28). Indonesia and COVID-19: What the World Is Missing. Retrieved July 07, 2020, from https://thediplomat.com/2020/04/indonesia-and-covid-19-what-the-world-is-missing/
+[^1]: Preuss, S. (2020, April 28). Indonesia and COVID-19: What the World Is Missing. Retrieved July 07, 2020, from https://thediplomat.com/2020/04/indonesia-and-covid-19-what-the-world-is-missing/
 
 [^2]: Setiawan, R. (2020, April 05). Solidaritas Pangan Rakyat saat Negara Tak Tanggung Kebutuhan Dasar. Retrieved July 07, 2020, from https://tirto.id/solidaritas-pangan-rakyat-saat-negara-tak-tanggung-kebutuhan-dasar-eKSc
