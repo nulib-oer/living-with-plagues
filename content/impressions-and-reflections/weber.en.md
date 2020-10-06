@@ -33,4 +33,4 @@ Not cannibalism today -- that would be too crude -- simply completing the invisi
 
 It has however also generated a new sensitivity toward these injustices, among the young and not so young -- and that may be its lasting contribution to alleviating if not transforming the "comorbidity" that defines social relations in "advanced" neoliberal societies.
 
-***Chicago, July 26, 2020***
+*Chicago, July 26, 2020*

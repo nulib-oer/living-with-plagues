@@ -29,4 +29,4 @@ Ils veulent raconter une autre société qui ne saurait exister qu'en fonction d
 
 Il s'agit, en posant une offrande dans ces paniers, en payant une pizza ou un café que l'on ne consommera pas, de faire un don à un voisin que l'on ne connaîtra jamais. Ce geste ne fera donc l'objet d'aucun remerciement et d'aucune narration, il ne sera pas récompensé par un regard de reconnaissance ou d'admiration ; le bonheur engendré par cette démarche portera une signature anonyme qui sera la marque impérissable de sa dignité. Ce panier en osier, dont l'image a couru les rues du monde, est alors le symbole d'une nouvelle communauté, voire d'une nouvelle religion - s'il est vrai que cette dernière porte dans la trame de son nom le sens d'un lien entre les hommes établi dans le souci d'un bien majeur : la solidarité. Il apparaît alors comme le manifeste d'un futur possible où l'homme ne serait plus un prédateur au regard d'autrui, il cesserait d'être homini lupus et deviendrait celui qui est à l'autre bout du fil, sans lequel la vie serait impossible, voire insupportable.
 
-**Naples, 17 mai 2020, 20 h.**
+*Naples, 17 mai 2020, 20 h.*

@@ -28,4 +28,4 @@ They want to narrate another society that could only emerge from a new bond betw
 
 Depositing a donation in these baskets, buying a pizza or  coffee that no one will consume, means offering a gift to a neighbor one will never know. The gesture will elicit no thanks and no narration. It will not be rewarded by an expression  of thankfulness or admiration; the happiness engendered by this action will bear an anonymous signature that will be the indestructible mark of its dignity. This wicker basket, whose image spread to the streets of the world, becomes the symbol of a new community, if not a new religion---if it is true that the latter carries in the weft of its name the meaning of a link between men established with a major good in mind: solidarity. It appears then, like the manifesto of a possible future, where man would no longer be a predator in the eyes of the other, he would cease to be *homini lupus* and would become the one who will be on the other side of the rope, without which life would be impossible, if not unbearable.    
 
-**Naples, May 17, 2020, 8pm**
+*Naples, May 17, 2020, 8pm*
