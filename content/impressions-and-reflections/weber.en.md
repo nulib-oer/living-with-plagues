@@ -4,8 +4,6 @@ author:
     display_name: Samuel Weber
     bio: 'Samuel Weber teaches Critical Theory, German and Comparative Literature at Northwestern and directs that University’s Paris Program in Critical Theory. In 2021 his new book “Singularity: Politics and Poetics” will be published by the University of Minnesota Press.'
 doi: 10.21985/n2-gz9v-ep61
-headshot: weber.jpg
-alt: Photo of Samuel Weber
 keywords:
     - plauges
 bg_img: 'white'
