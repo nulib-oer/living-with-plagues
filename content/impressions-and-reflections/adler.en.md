@@ -6,7 +6,7 @@ author:
     family_name: Adler
     display_name: Anthony Curtis Adler
     bio: "Anthony Curtis Adler is professor of German and Comparative Literature at Yonsei University and the author of Celebricities: Media Culture and the Phenomenology of Gadget Commodity Life (Fordham, 2016). His current project is on the politics of truth. He wrote his doctoral dissertation under the direction of Samuel Weber and was a fellow of the Paris Program in Critical Theory."
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-kh3w-d783
 keywords:
     - plauges
 bg_img: 'white'

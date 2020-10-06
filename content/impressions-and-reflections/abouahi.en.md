@@ -6,7 +6,7 @@ author:
     family_name: Abouahi
     display_name: Éva Abouahi
     bio: "Éva Abouahi is a philosophy professor based in Reims. She is working on a dissertation on the idea of salvation in the work of Jean-Paul Sartre under the direction of Marc Crépon and  Jean-François Louette."
-doi: 10.21985/n2-6bn1-at64
+doi: 10.21985/n2-0xzd-th89
 alt: Photo of Éva Abouahi
 image: abouahi.jpg
 keywords:
