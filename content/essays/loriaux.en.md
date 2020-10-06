@@ -9,8 +9,8 @@ doi: 10.21985/n2-nzhx-fr97
 keywords:
     - Essays
 hero:
-    title: Riding the Bomb
-    creator: Directed by Stanley Kubrick, distributed by Columbia Pictures
+    title: Riding the Bomb, from the film Dr. Strangelove 
+    creator: Stanley Kubrick (Director) and Columbia Pictures (Distributor)
     alt: "Major T. J. 'King' Kong (Slim Pickins) riding the bomb in Stanley Kubrick's 1964 film, Dr. Strangelove."
     src: loriaux.png
     url: https://commons.wikimedia.org/wiki/File:Dr._Strangelove_-_Riding_the_Bomb.png
