@@ -18,7 +18,7 @@ hero:
     permission: Courtesy of Mali Alinejad Zanjani.
 --- 
 
-From the Pays d'Oc to Ile-de-France in Pays d'Oil*,* from the Tarn to the Seine, from earth to stone, from small village to megalopolis. Rabastens-Paris as the crows fly is much more than a kilometer; it is more than one hundred kilometers; and, during a pandemic, truth be told, it is neither less nor more, it is simply a spatiotemporal and mental chasm that cannot be reduced to a quantitative measure. 
+From the Pays d'Oc to Ile-de-France in Pays d'Oil, from the Tarn to the Seine, from earth to stone, from small village to megalopolis. Rabastens-Paris as the crows fly is much more than a kilometer; it is more than one hundred kilometers; and, during a pandemic, truth be told, it is neither less nor more, it is simply a spatiotemporal and mental chasm that cannot be reduced to a quantitative measure. 
 
 If the birds in question, for their return home after a long confinement, were not able to fly but were reduced to rolling on the asphalt of a highway, then halfway through the trip, they would not rest on a branch but at the picnic table of a service area. 
 
