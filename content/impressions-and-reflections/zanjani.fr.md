@@ -1,5 +1,6 @@
 ---
-title: "Au fond de l’inconnu pour trouver du nouveau ! > --Baudelaire, Le Voyage"
+title: "Au fond de l’inconnu pour trouver du nouveau !"
+subtitle: "_--Baudelaire, Le Voyage_"
 author:
     given_name: Mali
     middle_name: Alinejad
