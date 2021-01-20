@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="{{ .Site.Language.Lang }}">
+    {{ partial "head.html" . }}
+    <body class="standard-page">
+        <a id="top"></a>
+        <a href="#main-content" class="screen-reader-shortcut">Skip to main content</a>
+        <!--[if lt IE 9]>
+        <div id="ie">
+            <p><img src="https://common.northwestern.edu/v8/css/images/icons/ie-warning.png" alt="Warning icon" /> Your browser is <strong>out-of-date</strong> and has known <strong>security flaws</strong>. We recommend you update your browser: <a href="http://www.google.com/chrome/" target="_blank">Chrome</a> - <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a> - <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">Internet Explorer</a> - <a href="https://www.apple.com/safari/" target="_blank">Safari</a>.</p>
+        </div>
+        <![endif]-->  
+        {{ partial "header.html" . }}
+
+<div id="page">
+
+    <div class="section background-select" style="margin-bottom: 0;">
+        <div class="background-select-image" style="background: url('{{ .Params.hero_img_url }}') no-repeat center / cover">
+            <div class="contain-780">
+                <h2>{{ .Title }}</h2>
+            </div>
+        </div>
+    </div>
+
+    <nav aria-label="section navigation menu" id="left-nav" tabindex="-1">
+        <h2>
+            <a href="/conference/">Conference</a>
+        </h2>
+        <ul>
+            <li><a href="#day-1-imagining-les-temps-qui-viennent">Day 1. Imagining Les Temps Qui Viennent</a></li>
+            <li><a href="#day-2-the-virus-the-sovereign-and-the-state-of-exception">Day 2. The Virus, the Sovereign, and the State of Exception</a></li>
+            <li><a href="#day-3-what-civilization-after-the-plague">Day 3. What Civilization After the Plague?</a></li>
+        </ul>
+    </nav>
+
+    <main id="main-content" class="content" tabindex="-1">        
+
+        <ul id="breadcrumbs">
+            <li><a href="https://buffett.northwestern.edu/index.html">Buffett Home</a></li>
+            <li><a href="{{ .Site.BaseURL }}">Living with Plagues</a></li>
+            <li class="active">Conference</li>
+        </ul>
+
+        <div class="section">
+            {{ .Content }}
+        </div>
+        
+    </main>
+</div>
+
+{{ partial "footer.html" . }}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
+<script src="{{ .Site.BaseURL }}/js/scripts.js"></script>
+</body>
+</html>
